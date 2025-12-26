@@ -324,6 +324,23 @@ body{
   opacity: .85;
 }
 
+.landing-phone::before{
+  content: " ☎ ";
+  opacity: .85;
+}
+
+.landing-location{
+  margin-top: 6px;
+  font-size: 15px;
+  font-weight: 700;
+  color: rgba(255,255,255,.85);
+}
+
+.landing-phone{
+  margin-bottom: 2px;
+}
+
+
 .glass{
   margin-top: -30px; /* moves box up slightly */
   position: relative;
