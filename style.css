@@ -22,6 +22,18 @@
 *{box-sizing:border-box}
 html,body{height:100%}
 
+/* Fix Android tap issues / remove delay */
+button, .btn, .choice, a {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* On touch devices, disable hover effects that can “stick” */
+@media (hover: none) {
+  .choice:hover { transform: none; }
+  .landing-btn:hover { transform: none; }
+}
+
 body{
   margin: 0;
   font-family: "Cairo", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;

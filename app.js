@@ -12,6 +12,35 @@ let quiz = {
 
 const TAKE_COUNT = 30; // always random 30 questions
 
+function bindTap(el, handler) {
+  if (!el) return;
+
+  // Pointer events are best on Android
+  if (window.PointerEvent) {
+    el.addEventListener("pointerup", (e) => {
+      e.preventDefault();
+      handler(e);
+    });
+  } else {
+    // Fallback for very old devices
+    el.addEventListener("touchend", (e) => {
+      e.preventDefault();
+      handler(e);
+    }, { passive: false });
+
+    el.addEventListener("click", handler);
+  }
+}
+
+function preloadImages(list) {
+  list.forEach(q => {
+    if (q.image && String(q.image).trim() !== "") {
+      const img = new Image();
+      img.src = q.image;
+    }
+  });
+}
+
 function shuffle(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -99,7 +128,8 @@ function renderQuestion() {
     btn.innerHTML = `<span>${text}</span>`;
     btn.dataset.index = String(idx); // original index
 
-    btn.addEventListener("click", () => {
+    bindTap(btn, () => {
+
       if (quiz.locked) return;
 
       // remove previous selection
@@ -236,6 +266,8 @@ document.getElementById("scoreBox").innerHTML = `
 }
 
 function startNewExam() {
+  preloadImages(quiz.list);
+
   quiz.index = 0;
   quiz.score = 0;
   quiz.selected = null;
@@ -260,12 +292,15 @@ async function init() {
   QUESTIONS = await loadQuestions();
 
   quiz.list = shuffle(QUESTIONS).slice(0, Math.min(TAKE_COUNT, QUESTIONS.length));
+  preloadImages(quiz.list);
+
   quiz.index = 0;
   quiz.score = 0;
   quiz.answers = [];
 
-  document.getElementById("confirmBtn").addEventListener("click", revealAnswer);
-  document.getElementById("nextBtn").addEventListener("click", nextQuestion);
+bindTap(document.getElementById("confirmBtn"), revealAnswer);
+bindTap(document.getElementById("nextBtn"), nextQuestion);
+
 
   document.getElementById("retryBtn").addEventListener("click", startNewExam);
 
