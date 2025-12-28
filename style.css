@@ -332,13 +332,16 @@ h1, h2, h3{
 }
 
 .landing-location a,
+.landing-location a:link,
 .landing-location a:visited,
+.landing-location a:hover,
 .landing-location a:active,
 .landing-location a:focus {
   color: inherit !important;
   text-decoration: none !important;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-text-fill-color: inherit !important;
 }
+
 
 
 
@@ -644,7 +647,3 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .hero-phones{ font-size: 14px; }
 }
 
-a {
-  color: inherit !important;
-  text-decoration: none !important;
-}
