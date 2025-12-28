@@ -659,3 +659,24 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .hero-phones{ font-size: 14px; }
 }
 
+/* Samsung Internet / Android touch fixes */
+html, body {
+  -webkit-text-size-adjust: 100%;
+}
+
+button, .choice, .btn, a {
+  touch-action: manipulation;
+  -ms-touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Prevent “hover stuck” on Samsung Internet */
+@media (hover: none) {
+  .choice:hover,
+  button:hover {
+    transform: none !important;
+    filter: none !important;
+  }
+}
