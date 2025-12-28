@@ -327,12 +327,21 @@ h1, h2, h3{
   -webkit-tap-highlight-color: transparent;
 }
 
-
 .landing-location a:hover {
   text-decoration: underline;
 }
-/* overlay/vignette — DOES NOT block clicks */
 
+.landing-location a,
+.landing-location a:visited,
+.landing-location a:active,
+.landing-location a:focus {
+  color: inherit !important;
+  text-decoration: none !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+/* overlay/vignette — DOES NOT block clicks */
 
 .landing-hero::before{
   content:"";
