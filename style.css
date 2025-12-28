@@ -321,6 +321,10 @@ h1, h2, h3{
   color: #fff;
 }
 
+.landing-location a {
+  color: inherit;
+  text-decoration: none;
+}
 /* overlay/vignette — DOES NOT block clicks */
 
 
