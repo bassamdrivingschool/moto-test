@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
+
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <meta name="format-detection" content="telephone=no">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>مدرسة بسام هاشم</title>
@@ -8,40 +13,45 @@
 </head>
 
 <body>
-
-  <!-- NAV -->
-  <header class="topbar">
-  <a href="index.html" class="nav-home">الرئيسية</a>
-</header>
-
-
   <!-- HERO -->
   <main class="landing-hero">
     <section class="glass">
 
       <h1 class="landing-title">مدرسة بسام هاشم</h1>
-      <p class="landing-phone">03836482 - 03720630</p>
+      <p class="landing-phone">03&nbsp;836&nbsp;482&nbsp;-&nbsp;03&nbsp;720&nbsp;630</p>
       <p class="landing-location">الشياح – معوض</p>
 
      
-      <a class="landing-btn" href="quiz.html">ابدأ</a>
+      <div class="landing-actions">
+        <a class="landing-btn" href="quiz.html">اختبار الدراجات النارية</a>
+        <a class="landing-btn secondary" href="car_quiz.html">اختبار السيارات</a>
+      </div>
+
 
       <div class="feature-grid">
 
         <div class="feature-card">
-          <div class="feature-icon">🚦</div>
-          <p class="feature-text">تعلم إشارات السير بسهولة</p>
-        </div>
+  <div class="feature-badge">
+    <img src="assets/icons/traffic.png" class="feature-icon" alt="">
+  </div>
+  <p class="feature-text">تعلم إشارات السير بسهولة</p>
+</div>
 
-        <div class="feature-card">
-          <div class="feature-icon">🏍️</div>
-          <p class="feature-text">استعد لامتحان القيادة بثقة</p>
-        </div>
 
-        <div class="feature-card">
-          <div class="feature-icon">⏱️</div>
-          <p class="feature-text">اختبر نفسك في أي وقت</p>
-        </div>
+
+<div class="feature-card">
+  <div class="feature-badge">
+    <img src="assets/icons/moto-car.png" class="feature-icon" alt="">
+  </div>
+  <p class="feature-text">استعد لامتحان القيادة بثقة</p>
+</div>
+
+<div class="feature-card">
+  <div class="feature-badge">
+    <img src="assets/icons/clock1.png" class="feature-icon" alt="">
+  </div>
+  <p class="feature-text">اختبر نفسك في أي وقت</p>
+</div>
 
       </div>
     </section>
