@@ -322,8 +322,14 @@ h1, h2, h3{
 }
 
 .landing-location a {
-  color: inherit;
+  color: inherit !important;
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+.landing-location a:hover {
+  text-decoration: underline;
 }
 /* overlay/vignette — DOES NOT block clicks */
 
