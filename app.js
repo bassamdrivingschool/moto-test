@@ -252,7 +252,7 @@ function startNewExam() {
 
 async function init() {
   // Always show school name + phone in quiz header
-  const phone = localStorage.getItem("quiz_phone") || "036836482 - 03720630";
+  const phone = localStorage.getItem("quiz_phone") || "03836482 - 03720630";
 
   document.getElementById("userName").textContent = "مدرسة بسام هاشم";
   document.getElementById("userPhone").textContent = phone;
