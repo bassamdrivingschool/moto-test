@@ -23,7 +23,9 @@ function shuffle(arr) {
 }
 
 async function loadQuestions() {
-  const res = await fetch("questions.json", { cache: "no-store" });
+  const VERSION = "20251228-1";
+const res = await fetch(`questions.json?v=${VERSION}`, { cache: "no-store" });
+
   if (!res.ok) throw new Error("Could not load questions.json");
   return await res.json();
 }
