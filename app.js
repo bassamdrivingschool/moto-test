@@ -173,7 +173,7 @@ function showResults() {
   document.getElementById("quizView").classList.add("hidden");
   document.getElementById("resultsView").classList.remove("hidden");
 
-  const phone = localStorage.getItem("quiz_phone") || "036836482 - 03720630";
+  const phone = localStorage.getItem("quiz_phone") || "03836482 - 03720630";
   document.getElementById("resultUser").textContent = `مدرسة بسام هاشم — ${phone}`;
 
  const passed = quiz.score >= 24;
