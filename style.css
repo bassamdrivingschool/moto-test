@@ -341,6 +341,7 @@ h1, h2, h3{
 }
 
 
+
 /* overlay/vignette — DOES NOT block clicks */
 
 .landing-hero::before{
@@ -641,4 +642,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .hero-title{ font-size: 30px; }
   .btn{ font-size: 15px; padding: 13px 16px; }
   .hero-phones{ font-size: 14px; }
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
 }
