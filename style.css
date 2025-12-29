@@ -330,6 +330,7 @@ h1, h2, h3{
   background-image: url("assets/test.png");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center 10%;
 
   display:flex;
   align-items:center;
@@ -403,10 +404,25 @@ h1, h2, h3{
 }
 
 .landing-location{
+  display: flex;
+  justify-content: center;   /* 🔥 center horizontally */
   margin-top: 6px;
-  font-size: 15px;
-  font-weight: 700;
+}
+
+.landing-location a{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  flex-direction: row-reverse; /* pin on the RIGHT */
   color: rgba(255,255,255,.85);
+  text-decoration: none;
+}
+
+.loc-emoji{
+  font-size: 20px;
+  line-height: 1;
+  color: #ffffff;
 }
 
 .landing-phone{
@@ -457,7 +473,7 @@ h1, h2, h3{
 /* SAME button style */
 .landing-btn{
   padding: 14px 44px;     /* ⬅ smaller than before */
-  font-size: 18px;        /* ⬅ smaller text */
+  font-size: 16px;        /* ⬅ smaller text */
   font-weight: 800;
 
   border-radius: 999px;
