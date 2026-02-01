@@ -1,17 +1,32 @@
-// app.js — Random 30 questions + confirm answer + end results review (Arabic UI)
+// car_app.js — Random 30 questions + confirm answer + end results review (Arabic + English)
 
 let QUESTIONS = [];
+let currentLang = localStorage.getItem("quiz_lang") || "ar"; // "ar" or "en"
+
 let quiz = {
   list: [],
   index: 0,
   score: 0,
-  selected: null,   // selected index (original index in q.choices)
-  locked: false,    // becomes true only AFTER confirm
-  answers: [],      // { id, chosenIndex, correctIndex }
+  selected: null,
+  locked: false,
+  answers: [],
   _lastNextAt: 0
 };
 
-const TAKE_COUNT = 30; // always random 30 questions
+const TAKE_COUNT = 30;
+
+function getQuestionsFile() {
+  // ✅ change these 2 filenames to match your car json files
+  // Arabic:
+  const AR_FILE = "questions.json";
+  // English:
+  const EN_FILE = "moto.json"; // <-- create this file (english car questions)
+  return currentLang === "en" ? EN_FILE : AR_FILE;
+}
+
+function t(arText, enText) {
+  return currentLang === "en" ? enText : arText;
+}
 
 function shuffle(arr) {
   const a = [...arr];
@@ -23,10 +38,9 @@ function shuffle(arr) {
 }
 
 async function loadQuestions() {
-  const VERSION = "20251228-1";
-const res = await fetch(`questions.json?v=${VERSION}`, { cache: "no-store" });
-
-  if (!res.ok) throw new Error("Could not load questions.json");
+  const file = getQuestionsFile();
+  const res = await fetch(file, { cache: "no-store" });
+  if (!res.ok) throw new Error("Could not load " + file);
   return await res.json();
 }
 
@@ -34,19 +48,15 @@ function setButtonEnabled(btn, enabled) {
   if (!btn) return;
   btn.disabled = !enabled;
   btn.setAttribute("aria-disabled", String(!enabled));
-  btn.style.pointerEvents = enabled ? "auto" : "none"; // HARD block taps on mobile
+  btn.style.pointerEvents = enabled ? "auto" : "none";
 }
 
 function bindTap(el, handler) {
   if (!el) return;
 
   const wrapped = (e) => {
-    // If it's disabled, ignore (extra safety for mobile weirdness)
     if (el.disabled) return;
-
-    // prevent ghost tap / scroll tap
     if (e && typeof e.preventDefault === "function") e.preventDefault();
-
     handler(e);
   };
 
@@ -75,7 +85,10 @@ function setProgress() {
 
   const counterEl = document.getElementById("qCounterTop");
   if (counterEl) {
-    counterEl.textContent = `السؤال ${quiz.index + 1} من ${quiz.list.length}`;
+    counterEl.textContent =
+      currentLang === "en"
+        ? `Question ${quiz.index + 1} of ${quiz.list.length}`
+        : `السؤال ${quiz.index + 1} من ${quiz.list.length}`;
   }
 }
 
@@ -85,36 +98,32 @@ function renderQuestion() {
   const qTextEl = document.getElementById("qText");
   const qImgEl = document.getElementById("qImg");
 
-  // Reset state
   quiz.selected = null;
   quiz.locked = false;
 
   const confirmBtn = document.getElementById("confirmBtn");
   const nextBtn = document.getElementById("nextBtn");
-
-  // Confirm/Next must be OFF until selection + confirm
   setButtonEnabled(confirmBtn, false);
   setButtonEnabled(nextBtn, false);
 
-  // Hide feedback completely
+  // keep feedback hidden
   const fb = document.getElementById("feedback");
   if (fb) {
     fb.className = "feedback hidden";
     fb.textContent = "";
   }
 
-  // Question image/text handling (NO ?? for Android)
   const hasImg = q && q.image && String(q.image).trim() !== "";
   if (hasImg) {
     qImgEl.src = q.image;
     qImgEl.classList.remove("hidden");
 
-    const t = ((q.question || "")).trim();
-    if (t === "") {
+    const tt = ((q.question || "")).trim();
+    if (tt === "") {
       qTextEl.textContent = "";
       qTextEl.classList.add("hidden");
     } else {
-      qTextEl.textContent = t;
+      qTextEl.textContent = tt;
       qTextEl.classList.remove("hidden");
     }
   } else {
@@ -125,7 +134,6 @@ function renderQuestion() {
     qTextEl.classList.remove("hidden");
   }
 
-  // Render choices
   const box = document.getElementById("choices");
   box.innerHTML = "";
 
@@ -136,20 +144,17 @@ function renderQuestion() {
     btn.className = "choice";
     btn.type = "button";
     btn.innerHTML = `<span>${text}</span>`;
-    btn.dataset.index = String(idx); // original index
+    btn.dataset.index = String(idx);
 
     bindTap(btn, () => {
       if (quiz.locked) return;
 
-      // remove previous selection
       [...box.querySelectorAll(".choice")].forEach((b) =>
         b.classList.remove("selected")
       );
 
       btn.classList.add("selected");
       quiz.selected = idx;
-
-      // allow confirm after picking an answer
       setButtonEnabled(confirmBtn, true);
     });
 
@@ -171,17 +176,14 @@ function revealAnswer() {
 
   const correct = q.correctIndex;
 
-  // Save answer
   quiz.answers[quiz.index] = { id: q.id, chosenIndex: chosen, correctIndex: correct };
 
-  // If correctIndex missing, just unlock next (no colors)
   if (typeof correct !== "number") {
     setButtonEnabled(document.getElementById("nextBtn"), true);
     setButtonEnabled(document.getElementById("confirmBtn"), false);
     return;
   }
 
-  // Mark correct / wrong + lock choices
   buttons.forEach((btn) => {
     const idx = Number(btn.dataset.index);
     if (idx === correct) btn.classList.add("correct");
@@ -191,16 +193,13 @@ function revealAnswer() {
 
   if (chosen === correct) quiz.score += 1;
 
-  // Enable next, disable confirm
   setButtonEnabled(document.getElementById("nextBtn"), true);
   setButtonEnabled(document.getElementById("confirmBtn"), false);
 }
 
 function nextQuestion() {
-  // ✅ Hard guard: you cannot go next unless you confirmed
   if (!quiz.locked) return;
 
-  // ✅ Anti double-tap
   const now = Date.now();
   if (now - quiz._lastNextAt < 250) return;
   quiz._lastNextAt = now;
@@ -223,10 +222,10 @@ function showResults() {
   const passed = quiz.score >= 24;
 
   document.getElementById("scoreBox").innerHTML = `
-    <div class="score-title">علامتك</div>
+    <div class="score-title">${t("علامتك", "Your score")}</div>
     <div class="score-value">${quiz.score} / ${quiz.list.length}</div>
     <div class="result-status ${passed ? "pass" : "fail"}">
-      النتيجة: ${passed ? "ناجح" : "راسب"}
+      ${t("النتيجة:", "Result:")} ${passed ? t("ناجح", "Passed") : t("راسب", "Failed")}
     </div>
   `;
 
@@ -239,12 +238,12 @@ function showResults() {
     const chosenText =
       (a.chosenIndex !== null && q.choices[a.chosenIndex] !== undefined)
         ? q.choices[a.chosenIndex]
-        : "لم تُجب";
+        : t("لم تُجب", "No answer");
 
     const correctText =
       (typeof a.correctIndex === "number" && q.choices[a.correctIndex] !== undefined)
         ? q.choices[a.correctIndex]
-        : "غير متوفر";
+        : t("غير متوفر", "Not available");
 
     const isCorrect =
       (typeof a.correctIndex === "number") && (a.chosenIndex === a.correctIndex);
@@ -257,19 +256,19 @@ function showResults() {
 
     item.innerHTML = `
       <div class="review-q">
-        <div class="review-num">سؤال ${i + 1}</div>
+        <div class="review-num">${t(`سؤال ${i + 1}`, `Question ${i + 1}`)}</div>
         ${hasImg ? `<img class="qimg" src="${q.image}" alt="question image">` : ""}
         ${qText ? `<div class="review-text">${qText}</div>` : ""}
       </div>
 
       <div class="review-answers">
         <div class="ans-row ${isCorrect ? "ans-ok" : "ans-bad"}">
-          <span class="ans-label">إجابتك:</span>
+          <span class="ans-label">${t("إجابتك:", "Your answer:")}</span>
           <span class="ans-value">${chosenText}</span>
         </div>
 
         <div class="ans-row ans-ok">
-          <span class="ans-label">الصحيح:</span>
+          <span class="ans-label">${t("الصحيح:", "Correct:")}</span>
           <span class="ans-value">${correctText}</span>
         </div>
       </div>
@@ -296,12 +295,42 @@ function startNewExam() {
   renderQuestion();
 }
 
+function applyLangUI() {
+  // Optional: set page direction for english
+  document.documentElement.lang = currentLang === "en" ? "en" : "ar";
+  document.documentElement.dir = currentLang === "en" ? "ltr" : "rtl";
+
+  // Buttons text
+  const confirmBtn = document.getElementById("confirmBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  if (confirmBtn) confirmBtn.textContent = t("تأكيد الإجابة", "Confirm Answer");
+  if (nextBtn) nextBtn.textContent = t("السؤال التالي", "Next Question");
+
+  // Toggle active state on your lang buttons (if present)
+  const btnEn = document.getElementById("langEn");
+  const btnAr = document.getElementById("langAr");
+  if (btnEn && btnAr) {
+    btnEn.classList.toggle("active", currentLang === "en");
+    btnAr.classList.toggle("active", currentLang === "ar");
+  }
+}
+
 async function init() {
+  const backBtn = document.getElementById("backHome");
+if (backBtn) {
+  backBtn.addEventListener("click", () => {
+    window.location.href = "index.html";
+  });
+}
+
   const phone = localStorage.getItem("quiz_phone") || "03836482 - 03720630";
 
   document.getElementById("userName").textContent = "مدرسة بسام هاشم";
   document.getElementById("userPhone").textContent = phone;
 
+  applyLangUI();
+
+  // ✅ load correct language questions file
   QUESTIONS = await loadQuestions();
 
   quiz.list = shuffle(QUESTIONS).slice(0, Math.min(TAKE_COUNT, QUESTIONS.length));
@@ -319,6 +348,22 @@ async function init() {
   bindTap(document.getElementById("homeBtn"), () => {
     window.location.href = "index.html";
   });
+
+  // ✅ language switch (reload)
+  const btnEn = document.getElementById("langEn");
+  const btnAr = document.getElementById("langAr");
+
+  if (btnEn && btnAr) {
+    btnEn.addEventListener("click", () => {
+      localStorage.setItem("quiz_lang", "en");
+      location.reload();
+    });
+
+    btnAr.addEventListener("click", () => {
+      localStorage.setItem("quiz_lang", "ar");
+      location.reload();
+    });
+  }
 
   renderQuestion();
 }

@@ -1,9 +1,10 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
 <head>
-    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
+  <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
+
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>الاختبار</title>
@@ -16,6 +17,17 @@
       <!-- QUIZ VIEW -->
       <div id="quizView">
         <div class="header">
+<div class="top-controls" dir="ltr">
+<button id="backHome" class="back-btn" aria-label="Back">→</button>
+
+
+  <div class="lang-switch">
+    <button id="langEn" class="lang-btn">English</button>
+    <button id="langAr" class="lang-btn">عربي</button>
+  </div>
+</div>
+
+
           <h1 class="title small">اختبار قيادة الدراجات النارية</h1>
           <div id="userName" class="sub user-name"></div>
           <div id="userPhone" class="sub user-phone"></div>
@@ -60,14 +72,7 @@
     </section>
   </main>
 
- <script>
-  // Always load the latest app.js (Samsung Internet caching fix)
-  (function () {
-    var s = document.createElement("script");
-    s.src = "app.js?v=" + Date.now();
-    document.body.appendChild(s);
-  })();
-</script>
+  <script src="app.js"></script>
 
 </body>
 </html>

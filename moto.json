@@ -1,0 +1,2624 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main reason why regular maintenance of your motorcycle is essential?",
+    "choices": [
+      "To allow the motorcycle to carry luggage",
+      "To make the motorcycle go faster than other vehicles",
+      "To maintain the motorcycle's good condition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "You are riding your motorcycle on a country road. What should you do if you encounter cattle on the road?",
+    "choices": [
+      "Give them enough space",
+      "Approach them to force them to give way",
+      "Sound your horn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "You are a motorcyclist approaching an intersection on your right and see a car also approaching the same intersection. What should you do?",
+    "choices": [
+      "Slow down and prepare to stop",
+      "Accelerate to clear the intersection without delay",
+      "Stop because the car has the right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Your motorcycle is stopped on a two-way road. How do you get on the motorcycle?",
+    "choices": [
+      "From the left, apply the front brake",
+      "From the right, apply the rear brake",
+      "From the right, release the brake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "You are riding your motorcycle in the city at night. The roads are wet after rain. What will be the impact of reflections on wet surfaces?",
+    "choices": [
+      "They will help you see unlit objects better",
+      "They will help you stop more easily",
+      "They will make it harder to see unlit objects"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "You feel cold while riding your motorcycle. What will be the impact?",
+    "choices": [
+      "You will be more alert",
+      "You will lose concentration",
+      "You will react more quickly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "You are riding your motorcycle at night and are dazzled by the headlights of an approaching vehicle. What should you do?",
+    "choices": [
+      "Slow down and stop if necessary",
+      "Turn off your headlights",
+      "Use your high beams"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "Your motorcycle does not have a dedicated brake. In an emergency, what should you do to stop quickly?",
+    "choices": [
+      "Apply the front brakes immediately before the rear brakes",
+      "Apply the rear brakes immediately before the front brakes",
+      "Apply only the rear brakes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Which of the following should be modified when carrying a passenger?",
+    "choices": [
+      "Exhaust",
+      "Headlights",
+      "Turn signals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Which road surface is most likely to reduce the stability of your motorcycle?",
+    "choices": [
+      "Gravel",
+      "Epoxy coating",
+      "Asphalt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "question": "When is it permissible to stop on the shoulder of a highway?",
+    "choices": [
+      "If you feel tired and need to rest",
+      "If you have passed the exit",
+      "In case of emergency only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "Where should you be especially vigilant to watch for motorcyclists and other motorcycles?",
+    "choices": [
+      "At intersections",
+      "At pedestrian crossings",
+      "On two-way roads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "question": "How is the final drive chain adjusted?",
+    "choices": [
+      "Loosen the rear tire nut and tighten it to the proper position",
+      "Loosen the engine nut and tighten it to the proper position",
+      "Both of the above answers are correct"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "You have adjusted the drive chain. If you don't do it correctly, what could happen?",
+    "choices": [
+      "Inaccurate speedometer reading",
+      "Incorrect rear wheel adjustment",
+      "Loss of braking power"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "You need to inflate both tires on your motorcycle. How do you determine the correct pressure?",
+    "choices": [
+      "By consulting the motorcycle's owner's manual",
+      "Appears on the side of the tire",
+      "Appears engraved on the wheel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "question": "You are carrying a passenger in the sidecar. What should you adjust to compensate for the extra weight?",
+    "choices": [
+      "Balancing the front and rear wheels",
+      "Measuring the weight of the front fork",
+      "Measuring the weight of the rear shock absorber"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "Why should you look over your shoulder before turning left onto a secondary road?",
+    "choices": [
+      "To check for oncoming traffic",
+      "To check for passing traffic",
+      "To ensure the secondary road is clear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "What preventive measures can you take to protect your motorcycle from fire hazards?",
+    "choices": [
+      "Avoid driving with a full tank of gas",
+      "Check for a strong gasoline odor",
+      "Use unleaded gasoline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "You are turning left from a two-way road onto a two-way road. What should you do before exiting?",
+    "choices": [
+      "Check the width of the central separating space",
+      "Position your motorcycle on the left side of the lane",
+      "Stop, then shift into a very low gear"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "What makes your motorcycle more visible during the day?",
+    "choices": [
+      "Wear a black helmet",
+      "Wear a brightly colored helmet",
+      "Wear a dark jacket"
+    ],
+       "correctIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "What should you check after adjusting the chain tension?",
+    "choices": [
+      "Rear wheel balance",
+      "Rear tire pressure",
+      "Engine valves are intact"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "question": "You were involved in a collision with another vehicle. One person was injured and your motorcycle was damaged. What do you need to know?",
+    "choices": [
+      "The other driver's vehicle insurance information",
+      "Whether the driver owns the other vehicle",
+      "Whether the other driver has a driver's license"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "What should you do if there is an obstacle on your side of the road?",
+    "choices": [
+      "Accelerate to pass first",
+      "Continue, as you have the right of way",
+      "Yield to oncoming traffic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "You have just driven through deep water. What should you do to ensure your brakes are working properly?",
+    "choices": [
+      "Avoid braking altogether for several kilometers",
+      "Drive slowly, braking gently",
+      "Stop for at least an hour to let your brakes dry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 25,
+    "question": "Some two-way roads are divided into three lanes. Why are these roads particularly dangerous?",
+    "choices": [
+      "Because vehicles can overtake on the right",
+      "Because the center lane is permitted for overtaking vehicles in both directions",
+      "Because the center lane is used in emergencies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Before setting off on a trip, it's a good idea to plan your route. How do you do this?",
+    "choices": [
+      "Contact nearby repair shops",
+      "Consult the map",
+      "Consult your motorcycle's user manual"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "A motorcyclist's and other rider personal protective gear should be no less than:",
+    "choices": [
+      "Helmet and gloves",
+      "Helmet, jacket, gloves, pants and boots",
+      "Helmet, gloves and boots"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "You arrive at the scene of an accident. A person is bleeding profusely from an arm injury, but nothing is trapped. What should you do?",
+    "choices": [
+      "Apply pressure to the injury and keep the arm down",
+      "Apply pressure to the injury and raise the arm",
+      "Leave the wound bleeding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "In an accident, the injured person is not breathing. What can you do to help them recover?",
+    "choices": [
+      "Turn them onto their side",
+      "Shake them vigorously",
+      "Gently tilt their head back"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "A collision has occurred. The cyclist is injured and unconscious. Why shouldn't you normally remove their helmet, except in cases of extreme necessity?",
+    "choices": [
+      "They might not want to",
+      "It could cause more serious injuries",
+      "The helmet could be scratched"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "A novice driver starts to enter your lane from a road on the right. What do you do?",
+    "choices": [
+      "Prepare to slow down and stop",
+      "Let them pass, then walk right behind them",
+      "Turn onto the side road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "question": "A novice driver is driving the vehicle in front of you. What do you do?",
+    "choices": [
+      "Remain calm and patient",
+      "Turn on your high beams",
+      "You honk and pass them"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "You are carrying a load on your motorcycle's luggage rack. What should you check?",
+    "choices": [
+      "The load is covered with a plastic tarp",
+      "The load is clearly visible",
+      "The load is securely fastened"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 34,
+    "question": "You have just driven through a deep pool of water. What should you check after removing it?",
+    "choices": [
+      "Brakes",
+      "Headlights",
+      "Steering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "It has rained after a long period of drought and heat. What is the impact on the road surface?",
+    "choices": [
+      "The road surface may be covered with gravel",
+      "It can become unusually slippery",
+      "The road surface can crumble and break"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "What should a passenger do when cornering?",
+    "choices": [
+      "Signal with their arms",
+      "Lean to the side to see ahead",
+      "Lean with you when cornering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "What can a heavy load on a motorcycle top case do?",
+    "choices": [
+      "Improve braking",
+      "Improve the motorcycle's balance",
+      "Decrease the motorcycle's balance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "Under normal riding conditions, how should you use the brakes?",
+    "choices": [
+      "Use the rear brake first, then the front brake",
+      "When turning the motorcycle or riding it around a bend",
+      "When the motorcycle is traveling straight ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 39,
+    "question": "Which of the following effects is caused by alcohol consumption?",
+    "choices": [
+      "Faster reactions",
+      "Increased concentration",
+      "Decreased ability to think clearly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "Your motorcycle is equipped with a catalytic converter. What does it reduce?",
+    "choices": [
+      "Engine noise",
+      "Exhaust emissions",
+      "Exhaust noise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "You waited a while before turning left onto a secondary road. What should you do just before turning?",
+    "choices": [
+      "Look left and right: a rescue look",
+      "Approach from the side",
+      "Signal oncoming traffic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "When should you increase your motorcycle's tire pressure?",
+    "choices": [
+      "Driving while carrying a heavy load",
+      "Driving in intense heat",
+      "Driving in the rain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "A friend offers you a used safety helmet. Why is this a bad idea?",
+    "choices": [
+      "It could be a full-face helmet",
+      "It could be damaged",
+      "You would be breaking the law"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "How do you maintain your cable-operated brakes?",
+    "choices": [
+      "By checking them at normal operating temperature",
+      "By lubricating and adjusting them regularly",
+      "By eliminating all lever or pedal movement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "The total stopping distance is calculated by adding the braking distance and the thinking distance. You are riding on a dry, good road with good brakes and tires. What is the typical stopping distance at 75 km/h?",
+    "choices": [
+      "24 meters",
+      "38 meters",
+      "55 meters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "You are not sure if cough medicine is affecting your ability to drive safely. What should you do?",
+    "choices": [
+      "Consult a loved one",
+      "Consult your doctor",
+      "Do not take this medicine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "Why are young motorcyclists more likely to be involved in accidents?",
+    "choices": [
+      "Because they ride in a group",
+      "Because they are inexperienced",
+      "Because they are very cautious at intersections"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "You are on a one-way road and want to turn left. There are two lanes. Where should you position your motorcycle?",
+    "choices": [
+      "In the left lane",
+      "In the right lane",
+      "Just to the right of the center line"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 49,
+    "question": "A driver leaves a side road in front of you, forcing you to brake suddenly. What should you do?",
+    "choices": [
+      "Flash your headlights to show your annoyance",
+      "Ignore the mistake and remain calm",
+      "Honk your horn to show your annoyance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 50,
+    "question": "What should you do when you see two elderly pedestrians about to cross the road in front of you?",
+    "choices": [
+      "Be careful; they might misjudge your speed",
+      "Wait until they're waiting for you to pass",
+      "Accelerate to pass quickly"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "Which road user is most at risk at intersections?",
+    "choices": [
+      "Car driver",
+      "Truck driver",
+      "Motorcyclist"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 52,
+    "question": "You are approaching a roundabout. There are horses right in front of you. What should you do?",
+    "choices": [
+      "Give them plenty of space",
+      "Sound your horn to warn them",
+      "Treat them like any other vehicle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 53,
+    "question": "You are following a truck on a wet road. What should you do when the spray makes it difficult to see?",
+    "choices": [
+      "Keep a longer following distance so that visibility improves",
+      "Stay close to the truck, away from the spray",
+      "Turn on your headlights at full speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 54,
+    "question": "When should you not stop on a clear road?",
+    "choices": [
+      "At all times",
+      "During the day",
+      "During rush hour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "You are maintaining a safe distance while waiting to pass a large vehicle. What should you do if a car approaches this distance?",
+    "choices": [
+      "Keep a longer and safe following distance",
+      "Flash your lights",
+      "Sound your horn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "question": "You are following a large vehicle. Why should you maintain a safe distance?",
+    "choices": [
+      "This will allow the driver to see you in their rearview mirror",
+      "You will be able to turn more quickly",
+      "This will make it easier for the large vehicle to stop"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "You suspect that the driver of the vehicle in front of you forgot to turn off their left indicator. What should you do?",
+    "choices": [
+      "Flash your lights to alert the driver",
+      "Overtake on the right if possible",
+      "Stay behind and do not overtake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "You are following a vehicle at a safe distance on a wet road. Another driver overtakes you and approaches the safe distance you left. What should you do?",
+    "choices": [
+      "Keep a longer and safe following distance",
+      "Turn on your headlights to warn",
+      "Try to overtake safely as quickly as possible"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 59,
+    "question": "An injured person is placed in the recovery position. They are unconscious but breathing normally. What else should you do?",
+    "choices": [
+      "Make sure their airway is clear",
+      "Place their arms at their sides",
+      "Press firmly between their shoulders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "question": "You are the first to arrive at the scene of an accident where people are seriously injured. You have activated the hazard lights and checked that all engines are off. What else should you do?",
+    "choices": [
+      "Make sure an ambulance is called",
+      "Move the injured people away from their vehicles",
+      "Stop other vehicles and call their drivers for help"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "An accident has occurred and a person has serious burns. What should you do to help them?",
+    "choices": [
+      "Apply ointment to the injury",
+      "Wash the burns with a clean, cool, non-toxic liquid",
+      "Remove any residue stuck to the burns"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 62,
+    "question": "A road traffic accident has just occurred. An injured person is lying on a busy road. What should you do first to help them?",
+    "choices": [
+      "Ensure the injured person is kept warm",
+      "Treat the injured person in shock",
+      "Warn other road users"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "When will your total stopping distance be the longest?",
+    "choices": [
+      "Driving at night",
+      "Climbing a hill",
+      "Traveling with a passenger"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 64,
+    "question": "Which lane should you not use when riding your motorcycle?",
+    "choices": [
+      "Acceleration lane",
+      "Overtaking lane",
+      "Train or tram lane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "You are approaching a gravel road. What should you do?",
+    "choices": [
+      "Drive normally",
+      "Reduce your speed",
+      "Stop suddenly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 66,
+    "question": "What would happen if you looked at the front wheel while driving?",
+    "choices": [
+      "It would make steering easier",
+      "It would affect your balance",
+      "You would consume less fuel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "What should you check after remounting the rear wheel?",
+    "choices": [
+      "Your sidecar",
+      "Suspension preload",
+      "Wheel balance adjustment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 68,
+    "question": "How is riding a motorcycle with a sidecar different from riding a motorcycle alone?",
+    "choices": [
+      "It allows you to brake later in case of obstacles",
+      "It allows you to approach turns more quickly",
+      "It requires a different riding style"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 69,
+    "question": "A kill switch is used:",
+    "choices": [
+      "To reduce speed in an emergency",
+      "To stop the engine in an emergency",
+      "To stop the engine normally"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "What is the kill switch on your motorcycle used for?",
+    "choices": [
+      "To save battery power",
+      "To stop the engine briefly",
+      "To stop the engine in an emergency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 71,
+    "question": "Why should you be careful when crossing a railway track?",
+    "choices": [
+      "Because pedestrians cross it",
+      "Because the steel rails are slippery",
+      "Because the railway tracks are always active"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 72,
+    "question": "You see a rainbow on the road. What does it warn you of?",
+    "choices": [
+      "A polished surface",
+      "A fuel spill on the road",
+      "Water on the road"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "Your motorcycle is equipped with a dual-clutch braking system. What do you do when you normally brake to a stop?",
+    "choices": [
+      "You gently apply both brake levers",
+      "You gently apply either brake lever",
+      "You only apply the rear brake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "It is raining after a long dry spell. What effect will this have on the road surface?",
+    "choices": [
+      "The road will be flooded",
+      "The road will be uneven",
+      "The road will be slippery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "How does aging affect the ability of older people to drive?",
+    "choices": [
+      "They will not use traffic lights at intersections",
+      "They will need glasses to read traffic lights",
+      "They will take longer to react to hazards"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "Which vehicles must travel in the right lane on a three-lane highway?",
+    "choices": [
+      "All types of vehicles",
+      "Large vehicles only",
+      "Slow-moving vehicles only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 77,
+    "question": "A tractor is ahead of you. You want to pass it, but you're not sure it's safe. What should you do?",
+    "choices": [
+      "Follow another vehicle that's overtaking the tractor",
+      "Sound your horn to force the tractor to stop",
+      "Stay behind the tractor if you have doubts about the safety of passing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "You are approaching a busy intersection. What should you do if you realize at the last moment that you're in the wrong lane?",
+    "choices": [
+      "Continue in that lane",
+      "Stop until the way is clear",
+      "Use your turn signals to get into the right lane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "question": "How would you react to drivers who appear inexperienced?",
+    "choices": [
+      "Be patient and prepare for their slow reaction time",
+      "You must pass them as quickly as possible",
+      "You must honk your horn to warn them of your presence"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "question": "What should you do in fog?",
+    "choices": [
+      "Avoid using your dipped headlights",
+      "Carefully follow the headlights of other vehicles",
+      "Allow extra travel time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "What should you do if you are driving in the opposite direction on the highway?",
+    "choices": [
+      "Maintain a sufficient distance from the vehicle in front of you",
+      "Stay close to the vehicle in front of you to reduce queues",
+      "Change lanes to improve traffic flow"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 82,
+    "question": "You are allowed to use your motorcycle horn:",
+    "choices": [
+      "To give way to yourself",
+      "To force slow drivers to pass you",
+      "To warn others of your presence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "When your motorcycle is parked on the road at night, where should you use your brake lights?",
+    "choices": [
+      "When there is fast or heavy traffic",
+      "When there are solid white lines in the center of the road",
+      "When you encounter oncoming traffic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "question": "What can cause excessive or uneven tire wear?",
+    "choices": [
+      "A braking system failure",
+      "An electrical system failure",
+      "A transmission failure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "question": "A driver's behavior is disturbing you. What can you do to handle this situation safely?",
+    "choices": [
+      "Follow the driver and turn on your headlights",
+      "Shout obscenities",
+      "Stop and take a break"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "How do you pass a tall, slow-moving vehicle on a busy road?",
+    "choices": [
+      "Follow closely behind and continue moving to see the road ahead",
+      "Keep enough distance behind to see if the road is clear",
+      "Stay behind until the driver signals you to proceed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "When are you allowed to stop on the right side of a highway?",
+    "choices": [
+      "If you need to read a map",
+      "In an emergency or breakdown",
+      "When you are tired and need a break"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "The injured person is unable to breathe normally and chest compressions must be performed. What is the frequency?",
+    "choices": [
+      "60 compressions per minute",
+      "120 compressions per minute",
+      "240 compressions per minute"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "You arrive at an accident. A pedestrian is bleeding profusely from a wound to his leg. The leg is not broken, and there is nothing in the wound. What should you do?",
+    "choices": [
+      "Pat the wound to stop the bleeding",
+      "Keep both legs extended on the ground",
+      "Raise the bleeding leg to reduce the bleeding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "question": "U-turning in the middle of a public road is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "question": "Violating helmet requirements is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 92,
+    "question": "Approaching vehicles at a distance of less than 50 cm is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "Walking side by side with another vehicle or motorcycle is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 94,
+    "question": "Repeated or continued use of the horn is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "question": "Failure to comply with horn usage rules is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "question": "Using the horn at night, except in cases of extreme necessity, is a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "question": "Stopping in places marked with a 'No Parking, No Stopping' sign is considered a traffic violation of category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 98,
+    "question": "Using other vehicles or motorcycles to pull a motorcycle or bicycle is a category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "Failure to securely fasten a helmet by the driver or passenger of a motorcycle is a category:",
+    "choices": [
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "Driving a motorcycle in a direction other than the designated direction is a category:",
+    "choices": [
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 101,
+    "question": "Driving a motorcycle against the direction of traffic is a category:",
+    "choices": [
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "Making noise that disturbs other road users and nearby pedestrians is a category:",
+    "choices": [
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "Making noise that disturbs other road users and nearby pedestrians may result in:",
+    "choices": [
+      "Detaining the motorcycle in the impound garage",
+      "Detaining the motorcycle at the location where the violation was recorded",
+      "Arresting the cyclist"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "Racing on public roads without a license is considered a category traffic violation:",
+    "choices": [
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "Performing dangerous movements or maneuvers is considered category traffic violation:",
+    "choices": [
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "The fine for category two traffic violations within the first two weeks is:",
+    "choices": [
+      "One million Lebanese pounds",
+      "Two million Lebanese pounds",
+      "Three million five hundred thousand Lebanese pounds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "question": "The fine for category three traffic violations within the first two weeks is:",
+    "choices": [
+      "One million Lebanese pounds",
+      "Two million Lebanese pounds",
+      "Three million five hundred thousand Lebanese pounds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "The fine for category four traffic violations within the first two weeks is:",
+    "choices": [
+      "Two million Lebanese pounds",
+      "Three million five hundred thousand Lebanese pounds",
+      "Thirty million Lebanese pounds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "The fine for category five traffic violations is up to:",
+    "choices": [
+      "Two million Lebanese pounds",
+      "Three million five hundred thousand Lebanese pounds",
+      "Thirty million Lebanese pounds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "A motorcyclist must use their lights:",
+    "choices": [
+      "When road lighting is insufficient",
+      "When riding behind a vehicle",
+      "At all times"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "Another person is permitted to ride behind the motorcyclist if the latter is equipped and authorized to carry a passenger, provided that the passenger is at least:",
+    "choices": [
+      "Five years old",
+      "Ten years old",
+      "Fifteen years old"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "It is prohibited for motorcycle drivers to ride without wearing a protective helmet that:",
+    "choices": [
+      "Does not protect the head and chin",
+      "Is securely fastened",
+      "Weighs no less than one kilogram"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 113,
+    "question": "A category A1 motorcycle license authorizes the driving of a motorcycle with an engine capacity not exceeding:",
+    "choices": [
+      "75 cc",
+      "125 cc",
+      "250 cc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "A category A motorcycle license authorizes the driving of a motorcycle with an engine capacity exceeding:",
+    "choices": [
+      "75 cc",
+      "125 cc",
+      "250 cc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 115,
+    "question": "Adjust the rear brake caliper as follows:",
+    "choices": [
+      "Tightening the nut of brake handle",
+      "Tighten the brake caliper nut",
+      "Tension the drive chain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "The motorcycle engine clutch will fail if:",
+    "choices": [
+      "The engine speed exceeds the maximum speed",
+      "The clutch life exceeds the manufacturer's recommended life",
+      "Both of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 117,
+    "question": "Function of the air filter:",
+    "choices": [
+      "Regulate the air pressure entering the engine",
+      "Clean the air of impurities and dust",
+      "Both of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "Checking the motorcycle engine oil:",
+    "choices": [
+      "When the motorcycle is parked sideways",
+      "When the motorcycle is parked upright",
+      "No difference"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "Starting the engine:",
+    "choices": [
+      "When the motorcycle is parked upright",
+      "When the motorcycle is parked diagonally",
+      "No difference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 120,
+    "question": "When you suddenly encounter wet road conditions, you must:",
+    "choices": [
+      "Accelerate to overtake",
+      "Slow down while braking",
+      "Only brake after riding on a dry surface"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "Applying brakes in the rain:",
+    "choices": [
+      "Rear brake",
+      "Front brakes",
+      "Rear and front brakes applied simultaneously and carefully"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "Benefits of regular motorcycle maintenance every month or two:",
+    "choices": [
+      "Check the condition of the brakes and engine performance",
+      "Clean the clutch and engine oil filter",
+      "Both of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 123,
+    "question": "Do not refuel while the engine is running:",
+    "choices": [
+      "To prevent the motorcycle from catching fire due to the proximity of the tank to the engine",
+      "To prevent the motorcycle from catching fire due to the proximity of the tank to the exhaust",
+      "Both of the above"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 124,
+    "question": "Do not park the motorcycle next to vehicles waiting in traffic:",
+    "choices": [
+      "To prevent the motorcycle from disappearing into the driver's blind spot",
+      "To prevent the motorcycle from exceeding the side clearance, which must be greater than 75 cm",
+      "The two previous answers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 125,
+    "question": "The motorcyclist can protect himself by:",
+    "choices": [
+      "Ensure that there is insurance on the motorcycle",
+      "Wearing motorcycle protective gear",
+      "Driving the motorcycle on one wheel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "The motorcycle protective leather suit can resist:",
+    "choices": [
+      "Fire",
+      "Friction with asphalt and small stones",
+      "Driving fast and straddling lanes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 127,
+    "question": "Motorcycle gloves protect:",
+    "choices": [
+      "Better control of steering in slopes",
+      "The hands from cold and injuries",
+      "The body from cold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Motorcycle boots protect:",
+    "choices": [
+      "The knees and thighs from cold",
+      "The feet from dust",
+      "The feet from injury, water, and cold"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 129,
+    "question": "The spine protective suit protects:",
+    "choices": [
+      "The chest and abdomen from heat and cold",
+      "The spine and spinal cord from rain",
+      "The spine and spinal cord from injury"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 130,
+    "question": "The protective eye glasses protect:",
+    "choices": [
+      "Ears from cold",
+      "Eyes from rain, wind, sand, and insects",
+      "Eyes from crying"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 131,
+    "question": "The motorcyclist helmet protects:",
+    "choices": [
+      "The hearing sense from traffic noise",
+      "From fatal head injuries",
+      "The spine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 132,
+    "question": "If the motorcyclist wears the helmet improperly or fails to wear it while driving, this behavior:",
+    "choices": [
+      "Is illegal",
+      "Is legal",
+      "Is normal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "If the motorcyclist just carries the helmet but does not wear it while driving, the behavior:",
+    "choices": [
+      "Is wise",
+      "Gives the motorcyclist legal protection",
+      "Does not give the motorcyclist legal protection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "While driving at night, the motorcyclist should wear:",
+    "choices": [
+      "A sports outfit",
+      "Dark colors",
+      "A fluorescent suit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "To be seen while driving at night, the motorcyclist is advised to:",
+    "choices": [
+      "Attach luminous stripes",
+      "Turn off his lights and attach luminous stripes",
+      "Make squeaking noise with his brakes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "If the motorcycle is equipped with a hydraulic brake system, then the driver should periodically:",
+    "choices": [
+      "Check the level of brake line",
+      "Limit the use of brakes",
+      "Check the level of brake fluid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 137,
+    "question": "The tread depth of the motorcycle tires should not be less than:",
+    "choices": [
+      "3 millimeters",
+      "6 millimeters",
+      "5 millimeters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 138,
+    "question": "In order to steer the motorcycle freely, the driver should:",
+    "choices": [
+      "Sit close to the steering grips",
+      "Hold the steering grips with one hand",
+      "Sit away from the steering grips"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "question": "In order to avoid unintended speed increase, the motorcyclist should hold the steering grip in such a way that his:",
+    "choices": [
+      "Right wrist is upwards",
+      "Left wrist is upwards",
+      "Right wrist is downwards"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "For motorcycles, the braking process is most effective when the motorcyclist uses:",
+    "choices": [
+      "Back brakes only",
+      "Both back and front brakes",
+      "His feet, by pressing them on the asphalt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "For motorcycles to avoid skidding while severe braking, the motorcycle should be:",
+    "choices": [
+      "At an intersection",
+      "In a curve",
+      "In a straight direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 142,
+    "question": "Two causes for a motorcycle to skid on the road:",
+    "choices": [
+      "Low speed and low gear",
+      "Broken lights and weak battery",
+      "Slippery road and nervous reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 143,
+    "question": "While driving your motorcycle at night, you should drive:",
+    "choices": [
+      "Slowly and maintain a shorter stopping distance",
+      "Slowly and maintain a longer stopping distance",
+      "Fast, with your low beam on"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 144,
+    "question": "When the motorcycle vibrates in motion, it is often due to:",
+    "choices": [
+      "Uneven rotation of at least one wheel or one tire",
+      "Even rotation of both wheels and both tires",
+      "Bad distribution of the load"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 145,
+    "question": "One of the main causes for motorcycle crash is the presence of:",
+    "choices": [
+      "Oil and pebbles on the road surface",
+      "Inappropriate speed",
+      "Policemen and traffic lights"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 146,
+    "question": "To avoid motorcycle accidents at intersections you should:",
+    "choices": [
+      "Slow down and move to the appropriate lane",
+      "Depend on your mirrors",
+      "Overtake from the right of the vehicles stopped at the intersection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 147,
+    "question": "When you overtake with your motorcycle a vehicle from the left side, you should always remember that this vehicle may:",
+    "choices": [
+      "Decrease its speed gradually",
+      "Turn on its hazard lights",
+      "Swerve left suddenly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 148,
+    "question": "While driving your motorcycle in a straight direction, you should always remember that an oncoming vehicle may:",
+    "choices": [
+      "Swerve suddenly into your path",
+      "Stop suddenly on its path",
+      "Swerve suddenly away from your path"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 149,
+    "question": "If you have the habit of passing vehicles with your motorcycle in a zigzag manner, this means:",
+    "choices": [
+      "You are a world champion",
+      "Your chances of being involved in an accident are much higher",
+      "Your chances of being involved in an accident are much lower"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "When you drive your motorcycle with an intentionally emptied exhaust system producing a very loud noisy sound, it:",
+    "choices": [
+      "Is legal",
+      "Makes people respect your creative ideas",
+      "Is considered a clear traffic violation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 151,
+    "question": "",
+    "image": "assets/signs/sign-000.png",
+    "choices": [
+      "Caution, slippery road ahead",
+      "Caution, speed bumps ahead",
+      "Caution, uneven road ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "question": "",
+    "image": "assets/signs/sign-001.png",
+    "choices": [
+      "Roundabout ahead",
+      "Caution, left bend ahead",
+      "Caution, right bend ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 153,
+    "question": "",
+    "image": "assets/signs/sign-002.png",
+    "choices": [
+      "Caution, right bend ahead",
+      "Vehicles can go left",
+      "Caution, left bend ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 154,
+    "question": "",
+    "image": "assets/signs/sign-003.png",
+    "choices": [
+      "Caution, double bend ahead, first one to the right",
+      "Caution, double lane road",
+      "Caution, double bend ahead, first one to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "",
+    "image": "assets/signs/sign-004.png",
+    "choices": [
+      "Caution, double lane road",
+      "Caution, double bend ahead, first one to the left",
+      "Caution, double bend ahead, first one to the right"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "",
+    "image": "assets/signs/sign-005.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Caution, dangerous slope",
+      "Caution, slippery road ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 157,
+    "question": "",
+    "image": "assets/signs/sign-006.png",
+    "choices": [
+      "Unsecure crossing",
+      "No entry",
+      "Caution, students or school"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 158,
+    "question": "",
+    "image": "assets/signs/sign-007.png",
+    "choices": [
+      "Caution, animals",
+      "Stray animals",
+      "Animals not allowed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 159,
+    "question": "",
+    "image": "assets/signs/sign-008.png",
+    "choices": [
+      "Caution, double lane road",
+      "Caution, intersection without right of way",
+      "Travel on the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "",
+    "image": "assets/signs/sign-009.png",
+    "choices": [
+      "Caution, various dangers",
+      "You cannot turn",
+      "Caution, roundabout ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 161,
+    "question": "",
+    "image": "assets/signs/sign-010.png",
+    "choices": [
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "Caution, intersection ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 162,
+    "question": "",
+    "image": "assets/signs/sign-011.png",
+    "choices": [
+      "Merging with a freeway",
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 163,
+    "question": "",
+    "image": "assets/signs/sign-012.png",
+    "choices": [
+      "Caution, intersection on the right",
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 164,
+    "question": "",
+    "image": "assets/signs/sign-013.png",
+    "choices": [
+      "One-minute parking",
+      "End of speed limit",
+      "Road with priority right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 165,
+    "question": "",
+    "image": "assets/signs/sign-014.png",
+    "choices": [
+      "Not reserved for pedestrians",
+      "No entry for pedestrians",
+      "Caution, pedestrian crossing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 166,
+    "question": "",
+    "image": "assets/signs/sign-015.png",
+    "choices": [
+      "Caution, cycles crossing",
+      "Trolley crossing",
+      "No entry for bikes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "",
+    "image": "assets/signs/sign-016.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Caution, wide road",
+      "Caution, narrow road on the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 168,
+    "question": "",
+    "image": "assets/signs/sign-017.png",
+    "choices": [
+      "Priority to the right",
+      "Narrow road on the right",
+      "Caution, narrow road on the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 169,
+    "question": "",
+    "image": "assets/signs/sign-018.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "Caution, narrow road on the right",
+      "End of priority"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "",
+    "image": "assets/signs/sign-019.png",
+    "choices": [
+      "Caution, falling or fallen rocks ahead",
+      "Caution, narrow road ahead",
+      "Mountainous area"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "",
+    "image": "assets/signs/sign-020.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "Caution, electrical signs",
+      "Caution, roundabout ahead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "",
+    "image": "assets/signs/sign-021.png",
+    "choices": [
+      "No entry",
+      "Give way – priority road ahead",
+      "Caution, various dangers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 173,
+    "question": "",
+    "image": "assets/signs/sign-022.png",
+    "choices": [
+      "No entry",
+      "Give way – priority road ahead",
+      "Caution, various dangers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 174,
+    "question": "",
+    "image": "assets/signs/sign-023.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "No entry",
+      "End of priority"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 175,
+    "question": "",
+    "image": "assets/signs/sign-024.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "No overtaking for all kinds of vehicles",
+      "End of priority"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 176,
+    "question": "",
+    "image": "assets/signs/sign-025.png",
+    "choices": [
+      "One lane road",
+      "No entry",
+      "Stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 177,
+    "question": "",
+    "image": "assets/signs/sign-026.png",
+    "choices": [
+      "One lane road",
+      "No parking",
+      "No entry for all motor vehicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 178,
+    "question": "",
+    "image": "assets/signs/sign-027.png",
+    "choices": [
+      "Various dangers",
+      "No parking",
+      "No entry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 179,
+    "question": "",
+    "image": "assets/signs/sign-028.png",
+    "choices": [
+      "No overtaking allowed for trucks",
+      "No overtaking allowed for all kinds of vehicles",
+      "No entry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "",
+    "image": "assets/signs/sign-029.png",
+    "choices": [
+      "Upper speed limit: 30 km/hour",
+      "Give way – priority road ahead",
+      "Lower speed limit: 80 km/hour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 181,
+    "question": "",
+    "image": "assets/signs/sign-030.png",
+    "choices": [
+      "Theatre",
+      "No parking",
+      "You are not allowed to sound your horn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 182,
+    "question": "",
+    "image": "assets/signs/sign-031.png",
+    "choices": [
+      "Road reserved for trucks",
+      "Trucks can overtake",
+      "Trucks cannot overtake"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "",
+    "image": "assets/signs/sign-032.png",
+    "choices": [
+      "Animal carts allowed",
+      "No entry for pedestrians",
+      "No entry for animal carts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 184,
+    "question": "",
+    "image": "assets/signs/sign-033.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "Caution, lane reserved for pedestrians",
+      "No entry for pedestrians"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 185,
+    "question": "",
+    "image": "assets/signs/sign-034.png",
+    "choices": [
+      "Compulsory path for motor vehicles",
+      "Lane reserved for bikes",
+      "No entry for bikes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 186,
+    "question": "",
+    "image": "assets/signs/sign-035.png",
+    "choices": [
+      "Cycles crossing",
+      "Motorbikes lane",
+      "No entry for motorbikes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "",
+    "image": "assets/signs/sign-036.png",
+    "choices": [
+      "Not entry for trolleys",
+      "Trolleys cannot be parked here",
+      "Lane reserved for trolleys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "",
+    "image": "assets/signs/sign-037.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "No parking",
+      "Road reserved for motor vehicles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "",
+    "image": "assets/signs/sign-038.png",
+    "choices": [
+      "No entry to trucks exceeding 2.3 m in height",
+      "No entry for trucks",
+      "No entry to cars exceeding 2.3 m in width"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 190,
+    "question": "",
+    "image": "assets/signs/sign-039.png",
+    "choices": [
+      "No entry to trucks exceeding 3.5 tons in weight",
+      "No entry to trucks exceeding 3.5 m in height",
+      "Compulsory direction for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 191,
+    "question": "",
+    "image": "assets/signs/sign-040.png",
+    "choices": [
+      "No entry to trucks carrying more than 6.5 tons of cargo",
+      "No entry to trucks exceeding 10 m in height",
+      "Cargo cannot exceed 10 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 192,
+    "question": "",
+    "image": "assets/signs/sign-041.png",
+    "choices": [
+      "No entry to trucks exceeding 7 m in height",
+      "No entry to trucks exceeding 7 tons per wheel",
+      "No entry to trucks carrying more than 7 tons of cargo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 193,
+    "question": "",
+    "image": "assets/signs/sign-042.png",
+    "choices": [
+      "Start of restriction signs",
+      "No speeding",
+      "End of restriction sign"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 194,
+    "question": "",
+    "image": "assets/signs/sign-043.png",
+    "choices": [
+      "Speed limit",
+      "Start of speed limit",
+      "End of speed limit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 195,
+    "question": "",
+    "image": "assets/signs/sign-044.png",
+    "choices": [
+      "Turn right",
+      "Compulsory direction to the left",
+      "You cannot turn right"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 196,
+    "question": "",
+    "image": "assets/signs/sign-045.png",
+    "choices": [
+      "Turn left",
+      "You can go straight or turn right",
+      "You cannot turn left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "",
+    "image": "assets/signs/sign-046.png",
+    "choices": [
+      "You cannot go right or left",
+      "You must go straight",
+      "You can turn right or left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 198,
+    "question": "",
+    "image": "assets/signs/sign-047.png",
+    "choices": [
+      "Trucks must go right",
+      "You cannot turn left",
+      "You can go straight or turn right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 199,
+    "question": "",
+    "image": "assets/signs/sign-048.png",
+    "choices": [
+      "You cannot go left",
+      "Compulsory direction to the left",
+      "You can go straight or turn left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 200,
+    "question": "",
+    "image": "assets/signs/sign-049.png",
+    "choices": [
+      "You can go right",
+      "Freeway lane",
+      "Compulsory direction to the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 201,
+    "question": "",
+    "image": "assets/signs/sign-050.png",
+    "choices": [
+      "Compulsory direction to the right",
+      "You cannot turn right",
+      "You must go straight"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "question": "",
+    "image": "assets/signs/sign-051.png",
+    "choices": [
+      "You cannot turn right or left",
+      "Vehicle can only turn right",
+      "Compulsory direction to the right or the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 203,
+    "question": "",
+    "image": "assets/signs/sign-052.png",
+    "choices": [
+      "Lane reserved for pedestrians and bicycles",
+      "Lane reserved for bicycles",
+      "End of bicycle track"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 204,
+    "question": "",
+    "image": "assets/signs/sign-053.png",
+    "choices": [
+      "No entry for pedestrians and bicycles",
+      "Lane reserved for pedestrians and bicycles",
+      "End of bicycle track"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 205,
+    "question": "",
+    "image": "assets/signs/sign-054.png",
+    "choices": [
+      "Compulsory direction to the right",
+      "Traffic direction",
+      "You cannot turn right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 206,
+    "question": "",
+    "image": "assets/signs/sign-055.png",
+    "choices": [
+      "Compulsory turn",
+      "Traffic direction",
+      "You cannot turn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 207,
+    "question": "",
+    "image": "assets/signs/sign-056.png",
+    "choices": [
+      "End of no bus overtaking zone",
+      "Lane reserved for buses",
+      "No entry to buses"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 208,
+    "question": "",
+    "image": "assets/signs/sign-057.png",
+    "choices": [
+      "No entry to trucks",
+      "No entry to trucks exceeding 6.5 tons in weight",
+      "Lane reserved for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 209,
+    "question": "",
+    "image": "assets/signs/sign-058.png",
+    "choices": [
+      "No entry to trucks carrying more than 6.5 tons of cargo",
+      "Compulsory direction for trucks",
+      "Trucks cannot park here"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 210,
+    "question": "",
+    "image": "assets/signs/sign-059.png",
+    "choices": [
+      "Trucks cannot park here",
+      "Compulsory direction for trucks",
+      "Not entry to trailer trucks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 211,
+    "question": "",
+    "image": "assets/signs/sign-060.png",
+    "choices": [
+      "Agricultural machinery not allowed",
+      "Road reserved for agricultural machinery",
+      "One-minute parking for agricultural machinery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 212,
+    "question": "",
+    "image": "assets/signs/sign-061.png",
+    "choices": [
+      "End of no overtaking zone",
+      "Caution, two-lane road",
+      "End of no overtaking for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 213,
+    "question": "",
+    "image": "assets/signs/sign-062.png",
+    "choices": [
+      "Trucks only",
+      "End of no overtaking for trucks",
+      "Caution, two-lane road"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 214,
+    "question": "",
+    "image": "assets/signs/sign-063.png",
+    "choices": [
+      "No parking",
+      "No overtaking for all kinds of vehicles",
+      "No entry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 215,
+    "question": "",
+    "image": "assets/signs/sign-064.png",
+    "choices": [
+      "No stopping and no parking",
+      "No parking",
+      "No entry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 216,
+    "question": "",
+    "image": "assets/signs/sign-065.png",
+    "choices": [
+      "You must go straight",
+      "No parking in this zone",
+      "No entry in this direction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 217,
+    "question": "",
+    "image": "assets/signs/sign-066.png",
+    "choices": [
+      "Direction to the left",
+      "No parking on the left",
+      "You cannot turn left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 218,
+    "question": "",
+    "image": "assets/signs/sign-067.png",
+    "choices": [
+      "No parking on the right",
+      "You cannot turn right",
+      "Direction to the right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 219,
+    "question": "",
+    "image": "assets/signs/sign-068.png",
+    "choices": [
+      "Parking zone",
+      "Roundabout ahead",
+      "You cannot turn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 220,
+    "question": "",
+    "image": "assets/signs/sign-069.png",
+    "choices": [
+      "You cannot park for more than 30 minutes",
+      "Mandatory upper speed",
+      "Mandatory lower speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 221,
+    "question": "",
+    "image": "assets/signs/sign-070.png",
+    "choices": [
+      "Maximum speed: 30 km/h",
+      "You cannot park for more than 30 minutes",
+      "End of mandatory lower speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 222,
+    "question": "",
+    "image": "assets/signs/sign-071.png",
+    "choices": [
+      "Caution, slippery road ahead",
+      "Tyre chains must be removed",
+      "Vehicles equipped with metal chains only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 223,
+    "question": "",
+    "image": "assets/signs/sign-072.png",
+    "choices": [
+      "Park",
+      "No entry for pedestrians",
+      "Lane reserved for pedestrians"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 224,
+    "question": "",
+    "image": "assets/signs/sign-073.png",
+    "choices": [
+      "End of pedestrian lane",
+      "Lane reserved for pedestrians",
+      "Upper ground pedestrian crossing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 225,
+    "question": "",
+    "image": "assets/signs/sign-074.png",
+    "choices": [
+      "Bicycles track",
+      "No parking for bicycles",
+      "No entry for bicycles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 226,
+    "question": "",
+    "image": "assets/signs/sign-075.png",
+    "choices": [
+      "Compulsory direction to the left",
+      "No parking on the left",
+      "Cannot turn left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 227,
+    "question": "",
+    "image": "assets/signs/sign-076.png",
+    "choices": [
+      "Hospital",
+      "Two-lane road connected to a bridge",
+      "Caution, moving bridge ahead"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 228,
+    "question": "",
+    "image": "assets/signs/sign-077.png",
+    "choices": [
+      "End of pedestrian lane",
+      "Caution, pedestrian crossing",
+      "Caution, no entry to pedestrians"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 229,
+    "question": "",
+    "image": "assets/signs/sign-078.png",
+    "choices": [
+      "No entry for bicycles",
+      "Lane reserved for bikes",
+      "Bicycle track"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 230,
+    "question": "",
+    "image": "assets/signs/sign-079.png",
+    "choices": [
+      "Lanes merge ahead",
+      "Merger with a freeway ahead",
+      "Dead end road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 231,
+    "question": "",
+    "image": "assets/signs/sign-080.png",
+    "choices": [
+      "Caution, airport runway",
+      "Caution, bridge",
+      "Highway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 232,
+    "question": "",
+    "image": "assets/signs/sign-081.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Bridge above the road",
+      "End of freeway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 233,
+    "question": "",
+    "image": "assets/signs/sign-082.png",
+    "choices": [
+      "Caution, rough road ahead",
+      "Tunnel",
+      "Bridge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 234,
+    "question": "",
+    "image": "assets/signs/sign-083.png",
+    "choices": [
+      "For doctors only",
+      "Parking for the disabled",
+      "Help center"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 235,
+    "question": "",
+    "image": "assets/signs/sign-084.png",
+    "choices": [
+      "No parking for the disabled",
+      "One-minute parking",
+      "Parking reserved for the disabled"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 236,
+    "question": "",
+    "image": "assets/signs/sign-085.png",
+    "choices": [
+      "Parking",
+      "One-minute parking",
+      "Parking not allowed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 237,
+    "question": "",
+    "image": "assets/signs/sign-086.png",
+    "choices": [
+      "Parking for all – not more than two taxis allowed",
+      "Taxis not allowed to park here",
+      "Taxi stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 238,
+    "question": "",
+    "image": "assets/signs/sign-087.png",
+    "choices": [
+      "Remove immediately",
+      "Inquiries",
+      "Police"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 239,
+    "question": "",
+    "image": "assets/signs/sign-088.png",
+    "choices": [
+      "Internet center",
+      "Petrol station",
+      "Inquiries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 240,
+    "question": "",
+    "image": "assets/signs/sign-089.png",
+    "choices": [
+      "Municipality police",
+      "Parking reserved for the police",
+      "Fire brigade"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 241,
+    "question": "",
+    "image": "assets/signs/sign-090.png",
+    "choices": [
+      "Freeway",
+      "Dangerous intersection ahead",
+      "Indirect turn to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 242,
+    "question": "",
+    "image": "assets/signs/sign-091.png",
+    "choices": [
+      "Parking",
+      "One-minute parking",
+      "No parking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 243,
+    "question": "",
+    "image": "assets/signs/sign-092.png",
+    "choices": [
+      "Hotel",
+      "Restaurant",
+      "Repair center"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "question": "",
+    "image": "assets/signs/sign-093.png",
+    "choices": [
+      "Restaurant",
+      "Inquiries",
+      "Refreshments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 245,
+    "question": "",
+    "image": "assets/signs/sign-094.png",
+    "choices": [
+      "Petrol station",
+      "Public phone",
+      "Restaurant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 246,
+    "question": "",
+    "image": "assets/signs/sign-095.png",
+    "choices": [
+      "Petrol station",
+      "Repair center",
+      "Restaurant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 247,
+    "question": "",
+    "image": "assets/signs/sign-096.png",
+    "choices": [
+      "Lane reserved for buses",
+      "Buses are not allowed to stop here",
+      "Bus parking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 248,
+    "question": "",
+    "image": "assets/signs/sign-097.png",
+    "choices": [
+      "No parking",
+      "Help center",
+      "Camping & camping cars zone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 249,
+    "question": "",
+    "image": "assets/signs/sign-098.png",
+    "choices": [
+      "Bend ahead",
+      "Reduce speed",
+      "Indirect bend to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "question": "",
+    "image": "assets/signs/sign-099.png",
+    "choices": [
+      "Reduce speed",
+      "Indirect bend to the left",
+      "Bend ahead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 251,
+    "question": "",
+    "image": "assets/signs/sign-100.png",
+    "choices": [
+      "Caution, right bend ahead",
+      "Caution, road bumps ahead",
+      "Caution, uneven roads ahead"
+    ],
+    "correctIndex": 1
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

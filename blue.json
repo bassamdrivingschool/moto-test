@@ -1,0 +1,3255 @@
+[
+  {
+    "id": 1,
+    "question": "When entering a tunnel during daytime, the driver should:",
+    "choices": [
+      "Sound on the horn",
+      "Turn on the regular headlights (low beam) and slow down",
+      "Turn on the regular headlights (low beam) and speed up"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "At night, when driving behind another vehicle, you should:",
+    "choices": [
+      "Turn on the high beam",
+      "Turn on the normal headlights (low beam)",
+      "Not use car headlights"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "If a car approaches from the other direction while your high beam is on, you should:",
+    "choices": [
+      "Turn off lights",
+      "Switch between high and low beam repetitively",
+      "Switch to normal headlights (low beam) immediately"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "When filling up your car with gas, you should:",
+    "choices": [
+      "Not care as it does not pose any threat",
+      "Turn off the engine",
+      "Keep the engine running"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "If the traffic light turns yellow when your vehicle has already entered the intersection, you should:",
+    "choices": [
+      "Stop immediately in the middle of the intersection",
+      "Continue forward cautiously",
+      "Stare at the traffic light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "If you feel sleepy while driving, you should:",
+    "choices": [
+      "Take amphetamines and continue driving",
+      "Not be concerned as it will pass",
+      "Stop immediately at the side of the road to get some rest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "When approaching an intersection that has a traffic policeman regulating traffic and an active traffic light and fixed traffic sign, you should:",
+    "choices": [
+      "Follow the traffic policeman’s instructions",
+      "Follow the traffic lights",
+      "Heed the fixed traffic sign"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "The moment you enter your vehicle, you should first perform the following necessary adjustments in order:",
+    "choices": [
+      "Fasten the seat belt, adjust the mirrors, and adjust your seat",
+      "Adjust the seat, adjust the mirrors, and fasten the seat belt",
+      "Listen to the weather forecast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Everyday prior to driving the vehicle, the driver should:",
+    "choices": [
+      "Do a routine check of the various vehicle systems",
+      "Should not perform any routine checks as long as the engine is running",
+      "Should not perform any routine as long as the engine is running"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "It is okay while driving for the driver to:",
+    "choices": [
+      "Read the newspaper",
+      "Use the phone",
+      "Listen to the radio at a low volume"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "The driver and passengers should fasten their seat belt:",
+    "choices": [
+      "After a minute from setting off",
+      "Prior to setting off",
+      "Before turning on the car engine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "The purpose of the head rest is:",
+    "choices": [
+      "To protect the neck in a rear end collision",
+      "To be used as a pillow for sleeping during long trips",
+      "To rest the head during the car trip"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "question": "The drivers ability to focus is impaired during driving due to:",
+    "choices": [
+      "Having an abundance in energy",
+      "Being sleepy and tired",
+      "Driving inside the city"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Using a cell phone while driving impacts the drivers ability to drive in a:",
+    "choices": [
+      "Positive way",
+      "Negative way",
+      "Both positive and negative way"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "The first advice for a driver that consumed some alcohol is to:",
+    "choices": [
+      "Drive at low speeds",
+      "Refrain from driving until the side effects of alcohol have disappeared",
+      "Not to be bothered"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Driving under the influence of sleeping medication is:",
+    "choices": [
+      "Dangerous",
+      "Delightful",
+      "Not dangerous"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "If the gas pedal gets stuck while driving, the driver should immediately:",
+    "choices": [
+      "Turn off the engine without locking the steering wheel",
+      "Pull the handbrake up",
+      "Change to a lower gear"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "If the car hood accidentally releases while driving down the road, you should immediately:",
+    "choices": [
+      "Increase your speed a little",
+      "Reduce your speed gradually and pull to the side of the road",
+      "Press firmly on the brakes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "To avoid being late during heavy rain, the driver should start his journey:",
+    "choices": [
+      "A bit earlier than usual",
+      "A bit later than usual",
+      "With good spirits"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "Before stepping into the vehicle, the driver should:",
+    "choices": [
+      "Make sure he has enough time on his hands",
+      "Look around and under the vehicle",
+      "Fasten the seatbelt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "While driving in heavy traffic, the driver should glance at his mirrors every:",
+    "choices": [
+      "4 to 8 seconds",
+      "45 seconds",
+      "30 seconds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "question": "Before turning right, the driver should glance at:",
+    "choices": [
+      "All the mirrors, especially the right-side mirror and blind spots",
+      "The right-side mirror only",
+      "The left-side mirror only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "The biggest threat that vehicles parked on the right-side pavement pose to drivers passing close to them is:",
+    "choices": [
+      "Pedestrians, and children, appearing suddenly from between these parked vehicles",
+      "Trash being thrown from the passing vehicles",
+      "Loud sounds from the radios of these vehicles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "question": "The threat that vehicles parked on the right-side pavement bring to drivers passing close to them is:",
+    "choices": [
+      "The alarm that would go off as the drivers cross next to these vehicles",
+      "The opening of a car trunk",
+      "The fact that any of these parked vehicles could take off and join traffic at any time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "As a cautious driver, you should:",
+    "choices": [
+      "Take the right of way to force it is your right",
+      "Yield the right of way to prevent road collisions",
+      "Never yield your right of way"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "While driving and prior to hitting your brakes, you should first look:",
+    "choices": [
+      "In the mirrors, namely the rear-view mirror",
+      "To your right",
+      "To your left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "When strong braking is applied, ABS in modern vehicles:",
+    "choices": [
+      "Should not make noise or cause the brake pedal to pulsate",
+      "Would normally make noise and cause the brake pedal to pulsate",
+      "Would not normally cause the brake pedal to pulsate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "One of the benefits of ABS in modern vehicles when strong braking is applied, is:",
+    "choices": [
+      "Preventing brakes from locking up and allows the driver to maintain steering control of the vehicle",
+      "Preventing brakes locking-up only",
+      "Not preventing brakes locking-up and not helping the driver maintain steering control of the vehicle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "If your vehicle is beginning to lose traction on a slippery surface, you should spontaneously:",
+    "choices": [
+      "Increase your speed",
+      "Press on the brakes and steer your vehicle in the opposite direction to your vehicles rear",
+      "Get your foot off the accelerator (don’t press on the brakes) and steer your vehicle in the same direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "If you leave a safe distance between your vehicle and the vehicle in front, you will be able to:",
+    "choices": [
+      "Read the plate number of that vehicle",
+      "Avoid a collision with that vehicle should it make a sudden stop",
+      "Enjoy the view surrounding you"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "When the vehicle in front immediately takes off the moment a red light turns green, you should:",
+    "choices": [
+      "Take off immediately after it and fast",
+      "Sound your horn",
+      "Make sure the road is empty then take off"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "When approaching an intersection with a flashing yellow traffic light, you should:",
+    "choices": [
+      "Stop",
+      "Fasten the seatbelt",
+      "Provide right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "question": "The seat belt must be used:",
+    "choices": [
+      "By front-seat passengers only",
+      "Not absolutely necessary",
+      "By all passengers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 34,
+    "question": "If your vehicle suddenly malfunctions while driving on a highway, you should:",
+    "choices": [
+      "Leave the highway from the nearest exit",
+      "Stop the car immediately in the place you are at",
+      "Keep on driving to your destination"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "The driver should hold the steering wheel:",
+    "choices": [
+      "With one hand",
+      "With both hands",
+      "With his fingertips"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Passengers of a loaded truck should not exceed:",
+    "choices": [
+      "One passenger",
+      "The authorized number of passengers",
+      "Are not allowed to transport passengers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "Upon coupling the trailer with the tractor, the driver should make sure that:",
+    "choices": [
+      "One leg is lowered to the ground",
+      "Trailer brake is applied and its legs are lowered to the ground",
+      "Trailer brake is released and its legs lowered to the ground"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "After coupling the trailer with the tractor, the driver should make sure that",
+    "choices": [
+      "Electric lines only are connected properly",
+      "Air pipes and electric lines are connected properly",
+      "Air pipes are only connected properly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 39,
+    "question": "When coupling the trailer to the tractor, the driver should:",
+    "choices": [
+      "Reverse slowly above the trailer",
+      "Reverse quickly below the trailer",
+      "Reverse slowly below the trailer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "When uncoupling the trailer from the tractor, the driver must select a place:",
+    "choices": [
+      "With a plane area and soft ground",
+      "With an incline and solid ground",
+      "With an incline and soft ground"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "question": "Upon uncoupling the trailer from the tractor, the driver should:",
+    "choices": [
+      "Apply the trailer brake and lower its legs to the maximum",
+      "Release the trailer brake and lower its legs to the maximum",
+      "Apply the trailer brake firmly and not lower its legs to the maximum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "The heavy vehicle driver has numerous blind spots around his vehicle. The count of these blind spots is:",
+    "choices": [
+      "At least four",
+      "At least eight",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "The heavy vehicle driver should pay attention to the height of his vehicle especially:",
+    "choices": [
+      "When driving on freeways",
+      "When driving over a bridge",
+      "When driving under a bridge or into a tunnel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "The heavy vehicle driver should give special care for the width of his vehicle especially:",
+    "choices": [
+      "When overtaking another vehicle",
+      "When driving on the freeway",
+      "When taking a rest"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "question": "The heavy vehicle driver should:",
+    "choices": [
+      "Reverse in crowded places",
+      "Reverse immediately after an intersection",
+      "Avoid reversing in crowded places"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 46,
+    "question": "Dealing with heavy vehicles differs from smaller vehicles, thus when turning to the right, the driver of a heavy vehicle should:",
+    "choices": [
+      "Not allow enough distance to his right side",
+      "Allow enough distance in the front",
+      "Allow enough distance to his right side"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "In order to avoid your heavy vehicle’s rear left wheels from crossing the center line as you negotiate a left hand turn, you should:",
+    "choices": [
+      "Take the extreme left at the turn",
+      "Take the right a bit at the turn",
+      "Increase your speed at the turn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "In order to avoid your heavy vehicle’s rear right wheels from skidding off the road as you negotiate a right hand turn, you should:",
+    "choices": [
+      "Take to the right at the turn",
+      "Increase your speed at the turn",
+      "Drive in the middle of the lane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "As you approach a hill top, you should always expect ____ behind the peak:",
+    "choices": [
+      "Obstacles",
+      "No obstacles",
+      "A straight stretch of road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "While driving your heavy vehicle downhill and in order to keep control of your vehicle, you should mainly depend on using:",
+    "choices": [
+      "An appropriate low gear",
+      "The brakes",
+      "The hand brake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "Using the main brakes of your heavy vehicle continuously when driving downhill for long disables the brakes due to:",
+    "choices": [
+      "Slope steepness",
+      "Heat build-up",
+      "Brake oil pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "If the driver doesn’t change quickly to a low gear as he starts to drive downhill, and the heavy vehicle gains speed:",
+    "choices": [
+      "It will be easy to change to a lower gear",
+      "It will be impossible to change to a lower gear to have more control over the vehicle",
+      "The driver will be able to overtake other vehicles safely"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "As you drive your heavy vehicle uphill for a long period of time, you should:",
+    "choices": [
+      "Prevent smaller vehicles from overtaking you",
+      "Stick to driving on the left ",
+      "Avoid engine pressure build-up"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "As you drive your heavy vehicle uphill for a long period of time, you should:",
+    "choices": [
+      "Keep to the extreme left as much as possible",
+      "Keep to the extreme right as much as possible",
+      "Check the fuel gauge continuously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "If you are going to overtake a vehicle uphill with your heavy vehicle and it will take too long, you should:",
+    "choices": [
+      "Insist on overtaking",
+      "Go beyond the speed limit",
+      "Forget about overtaking the vehicle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "When you are about to drive your heavy vehicle off-road, you should:",
+    "choices": [
+      "Increase your speed a little",
+      "Plan your path carefully",
+      "You should keep an eye on the driver behind you"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Eye contact at the intersection:",
+    "choices": [
+      "Helps drivers avoid misunderstandings",
+      "Is a sort of alert",
+      "Is a forum for drivers get to know one another"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "As a safety driving rule and whenever possible, the driver should avoid:",
+    "choices": [
+      "Washing his vehicle frequently",
+      "Reversing",
+      "Slowing down gradually"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "By law, the driver should yield the right of way to:",
+    "choices": [
+      "For women drivers",
+      "Speeding vehicle",
+      "Bus schools flashing their hazard lights"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "By law, the driver should yield the right of way to:",
+    "choices": [
+      "Vehicles that are already in the roundabout",
+      "Vehicles that are entering a roundabout",
+      "Vehicles located to the right of the vehicle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "It is legal to parallel park a vehicle to the pavement on a single-lane two-way street:",
+    "choices": [
+      "Doesn’t matter as long as it doesn’t hinder traffic",
+      "To the left of the road",
+      "To the right of the direction of driving for the vehicle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Excessive eating:",
+    "choices": [
+      "Helps the driver drive more safely",
+      "Will impair the drivers ability to react properly and make the right decisions",
+      "Will allow the driver to maintain control of his vehicle while driving at very high speeds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "Insufficient sleeping:",
+    "choices": [
+      "Helps improve reaction",
+      "Slows down his reactions during driving and causes him a slight loss of memory",
+      "Helps him to be alert"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "In long trips, the driver must stop for rest every:",
+    "choices": [
+      "10 hours",
+      "8 hours",
+      "4 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "In long trips, the driver must stop for rest around every:",
+    "choices": [
+      "250 kilometers",
+      "750 kilometers",
+      "900 kilometers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "question": "Driving under the influence of alcohol:",
+    "choices": [
+      "Endangers the driver",
+      "Endangers driver’s life as well as the lives of others",
+      "Endangers others lives only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "During very long trips, the driver should:",
+    "choices": [
+      "Never consume amphetamines to stay awake",
+      "Consume amphetamines regularly",
+      "Continue driving without rest"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "question": "The best way for a driver to know how a medical drug affects his driving is to:",
+    "choices": [
+      "Check with another driver",
+      "Check with his physician",
+      "Test it on another driver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "Driving under the influence of alcohol or drugs causes the driver a false feeling of:",
+    "choices": [
+      "Outrage",
+      "Courage and boldness",
+      "Fear"
+    ],
+    "correctIndex": 1
+  },
+{
+    "id": 70,
+    "question": "When you are about to overtake another vehicle, you should: ",
+    "choices": [
+      "Never depend on that vehicle’s driver hand gestures",
+      "Check the signals of the driver behind you",
+      "Rely on that vehicle light signals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 71,
+    "question": "If the road is divided into two lanes with solid lines or other lane separator, the driver:",
+    "choices": [
+      "Should travel in the opposite direction",
+      "Should cross these lines and drive on it",
+      "Should not cross these lines or other lane separators"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 72,
+    "question": "In case of normal traffic, the driver should:",
+    "choices": [
+      "Keep to the left side of the road",
+      "Cross the dividing lines to overtake",
+      "Keep to the right side of the road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 73,
+    "question": "If the lane is marked with a solid line and a broken line, which one of the following statements is correct?",
+    "choices": [
+      "The driver may change lanes if the broken line is to the left",
+      "The driver may change lanes if the solid line is to the left",
+      "The driver may not change lanes if the solid line is to the left"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Pavements are intended:",
+    "choices": [
+      "To park vehicles, when parking is allowed",
+      "To put anything that obstructs the use of the pavement",
+      "To be used by pedestrians, children trolleys, the sick, and the disabled"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "When drastically changing speed or direction, the driver should:",
+    "choices": [
+      "Check there is no danger, and give appropriate signals to other road users",
+      "Cross the solid line if the solid line is on his left",
+      "Cross the broken line without any signaling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "Sudden braking is allowed only:",
+    "choices": [
+      "In case of danger",
+      "If the driver needs to stop the car",
+      "If the driver needs to test the brakes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 77,
+    "question": "The driver should keep to:",
+    "choices": [
+      "The left, when another driver is overtaking him",
+      "The left, when another vehicle is heading towards him from the opposite direction",
+      "The right, when another vehicle is heading towards him from the opposite direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Travel on the right side of the road when another vehicle is heading towards him from the opposite direction",
+      "Overtake travelling military or police motorcades, or other processions",
+      "Overtake from the left when there is enough visibility"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 79,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Move slowly on the left side of the road",
+      "Travel in the designated direction",
+      "Drive in neutral with the intention to drive the vehicle solely through downforce"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Check there is no danger before overtaking",
+      "Travel in the designated direction",
+      "Make a U-turn in the middle of the road in a populated area"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Check there is no danger before overtaking",
+      "Travel in the designated direction",
+      "Travel in other than the designated direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Travel on the right side of the road",
+      "Check there is no danger before overtaking",
+      "Wash their vehicles on the freeway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "The driver:",
+    "choices": [
+      "Should reduce his speed or stop completely when the conditions surrounding him dictate so, especially when visibility is really bad",
+      "Should not take into consideration the condition of the road or the traffic density",
+      "Should increase his speed when visibility is low"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "question": "The driver should:",
+    "choices": [
+      "Overtake from the left",
+      "Overtake from the right on single lane roads",
+      "Take the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "question": "When a driver is passing a vehicle, the driver should:",
+    "choices": [
+      "Keep to the middle if it is a single lane road",
+      "Keep to the left side of the road as much as possible with other road users around",
+      "Keep to the right side of the road as much as possible with other road users around"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "Before overtaking, the driver should:",
+    "choices": [
+      "Should not take into consideration driving decorum when in populated areas",
+      "Overtake, even if the driver behind him has already initiated a similar overtake",
+      "Check that drivers behind him have not initiated a similar overtake"
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 87,
+    "question": "Before overtaking, the driver should:",
+    "choices": [
+      "Know that he has the right to overtake even if the driver behind him is overtaking him",
+      "Not alert the driver that he is about to overtake",
+      "Alert the driver he is about to overtake"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 88,
+    "question": "When overtaking, the driver should:",
+    "choices": [
+      "Not keep to the right immediately before overtaking",
+      "Use the left side of the road, even if it disaccommodate drivers traveling on the opposite direction",
+      "Use the left side of the road without disaccommodating drivers traveling on the opposite direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "As an exception to the rule, overtaking from the right is allowed:",
+    "choices": [
+      "If the driver signals that he is moving to the right",
+      "Overtaking from the right is not allowed",
+      "On roads that accommodate more than two lanes, provided that the drivers movement between lanes does not put other road users at risk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "question": "It is prohibited to overtake:",
+    "choices": [
+      "A vehicle from the left, if the road is marked with broken lines",
+      "If the road is broken into multiple lanes with broken lines",
+      "On bends"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "It is prohibited to overtake:",
+    "choices": [
+      "On bridges and in tunnels",
+      "On single-lane roads",
+      "From the right, whatever the case may be"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 92,
+    "question": "It is prohibited to overtake:",
+    "choices": [
+      "In case vehicles have stopped because of a traffic obstruction or a sign to do so",
+      "If the left side of the road will be clear after the overtake",
+      "If the vehicle you are overtaking is traveling on the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "It is prohibited to overtake:",
+    "choices": [
+      "When the width of the road makes for a very easy and safe overtake",
+      "If the road is broken into multiple lanes with broken lines",
+      "At the top edge of ascents, when there is not enough visibility ahead, and when the left side of the road will be clear after the takeover"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "If a police car, ambulance, or fire truck gives a signal of approaching, other road users should:",
+    "choices": [
+      "Increase their speed so as to ease the movement of such vehicle",
+      "Reduce their speed, and if need be, stop or move aside so as to ease the movement of such vehicle",
+      "Stop immediately where they are so as to ease the movement of such vehicle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "It is prohibited to overtake:",
+    "choices": [
+      "If the road is broken into multiple lanes with broken lines",
+      "On narrow or steep mountain road",
+      "On wide roads"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "On approaching an intersection, the driver should:",
+    "choices": [
+      "Keep moving without checking first that the road is clear",
+      "Keep to the right side of the road",
+      "Check that the road he is about to cross is clear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 97,
+    "question": "A driver who is about to leave the road he is on to another road on the right should:",
+    "choices": [
+      "Tilt a little to the left but remain on the road",
+      "Keep to the left side of the road",
+      "Keep to the right side of the road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 98,
+    "question": "A driver who is about to leave the road he is on to another road on the left should:",
+    "choices": [
+      "Keep the middle, without tilting left or right",
+      "Tilt a little to the right but remain on the road",
+      "Tilt a little to the left but remain on the road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "When the driver is about to leave one road and get on another one, the driver should:",
+    "choices": [
+      "Make the turn with moderate speed, after having checked that it is possible to do so without misaccommodating or putting others at risk",
+      "Tilt slowly to the right",
+      "Make the appropriate turn with utmost speed so as not to misaccommodate others"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 100,
+    "question": "It is best to keep a \"safe distance\":",
+    "choices": [
+      "From all sides of the vehicle",
+      "From the left and the right sides only",
+      "From the front and the end sides only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "It is important to allow a \"safe distance\" because:",
+    "choices": [
+      "It gives other vehicles a chance to enter the lane",
+      "It prevents distraction with other vehicles",
+      "It gives drivers the time to react to what happens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "A solid green light at the intersection means:",
+    "choices": [
+      "You should stop and check traffic in the other direction before you carry on",
+      "You cannot turn right",
+      "You can cross the intersection if it is possible"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 103,
+    "question": "A flashing yellow light means:",
+    "choices": [
+      "You can carry on if the road is clear",
+      "You should stop and carry on only when the road is clear",
+      "Reduce your speed and carry on cautiously"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 104,
+    "question": "A yellow light on the intersection means:",
+    "choices": [
+      "Stop",
+      "Go ahead",
+      "Reduce your speed and be ready to stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "If you have a flat tyre while you are traveling:",
+    "choices": [
+      "Press on the brakes to slow down, and pull off the road",
+      "Release the accelerator to allow the vehicle to slow down, keep the steering wheel straight, and pull off the road",
+      "Let the steering wheel take the reins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "If the lights of the vehicle traveling on the opposite direction are bothering you, you should:",
+    "choices": [
+      "Look towards the middle of the road",
+      "Look towards the left side of the road",
+      "Look down and towards the right side of the road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 107,
+    "question": "When you enter a highway, you should:",
+    "choices": [
+      "Slow down",
+      "Drive below the speed limit",
+      "Drive within the highway traffic speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 108,
+    "question": "If the road is marked with one solid line and one broken line:",
+    "choices": [
+      "The driver may change lanes if the broken line is to the left",
+      "The driver may not change lanes if the broken line is to the right",
+      "The driver may not change lanes if the broken line is to the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 109,
+    "question": "If a vehicle is pressing behind you, and you are on the left lane on a freeway, you should:",
+    "choices": [
+      "Speed up",
+      "Press the brakes intermittently to drive the other vehicle to move away",
+      "Move to the right lane, and adjust your speed to the traffic speed on that lane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "If your brakes stop working while you are on the road, you should:",
+    "choices": [
+      "Turn off the engine",
+      "Head directly to a repair shop",
+      "Quickly press on the brakes with high frequency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "In case of bad weather, the driver should:",
+    "choices": [
+      "Drive at the upper speed limit",
+      "Drive below the upper speed limit so as to accommodate road conditions",
+      "Drive at the upper speed limit and turn on the lights"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "The driver needs a bigger \"safe distance\":",
+    "choices": [
+      "On wet roads",
+      "Where there are other cars in front",
+      "On dry roads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 113,
+    "question": "Pavements are intended:",
+    "choices": [
+      "To be used by pedestrians, children trolleys, by the sick and the disabled",
+      "To put away anything that obstructs the use of the road",
+      "To park vehicles, when parking is allowed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 114,
+    "question": "Rear brake lights alert other drivers that you are:",
+    "choices": [
+      "Entering a bend",
+      "Changing lanes",
+      "Slowing down or stopping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 115,
+    "question": "On a four-way intersection, the vehicle that goes first is:",
+    "choices": [
+      "The vehicle that arrived first and already entered the intersection",
+      "The vehicle that is turning right",
+      "The vehicle that arrived first"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "question": "You should stop when you see:",
+    "choices": [
+      "A flashing yellow light",
+      "A flashing red light",
+      "A solid yellow light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "When you are sharing the road with a truck, it would be good to remember that trucks:",
+    "choices": [
+      "Require a smaller turning radius",
+      "Require less time to overtake in descents",
+      "Need a bigger safe distance with other vehicles to be able to stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "When turning right at the green light, you should:",
+    "choices": [
+      "Slow down to be able to make the turn",
+      "Carry on on the same lane",
+      "Give way to pedestrians"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 119,
+    "question": "You can refrain from taking the drug or alcohol test:",
+    "choices": [
+      "In emergency cases",
+      "If you are under 21",
+      "No, you cannot in any case it may be"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 120,
+    "question": "When driving in the fog, you should turn on the:",
+    "choices": [
+      "Hazard lights, and/or high beam",
+      "High beam",
+      "Hazard lights, and/or low beam"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "When overtaking on a multiple-lane highway:",
+    "choices": [
+      "Make sure there is enough gap in the lane you want to move to",
+      "No need to give a signal",
+      "Keep your eyes on the parallel lane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 122,
+    "question": "When you are taking a curve:",
+    "choices": [
+      "Maintain the speed of your vehicle",
+      "Increase the speed of your vehicle",
+      "Decrease the speed of your vehicle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 123,
+    "question": "If the traffic lights are not working:",
+    "choices": [
+      "Give the right of way to the driver on the left",
+      "Stop and wait until the police gets to the intersection",
+      "Act as if you are at an intersection without traffic lights"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 124,
+    "question": "When a truck is trying to overtake your vehicle:",
+    "choices": [
+      "Change lanes",
+      "Increase your speed",
+      "Maintain or decrease your speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 125,
+    "question": "If you are moving behind a motorcycle, you should:",
+    "choices": [
+      "Allow the motorcycle to use half the lane",
+      "Overtake the motorbike on the same lane",
+      "Allow the motorbike to use the entire width of the lane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 126,
+    "question": "If two drivers are approaching an intersection from opposite directions:",
+    "choices": [
+      "Each will go on his way without giving priority to the other",
+      "The driver coming from the left should give the right of way to the other driver",
+      "The driver coming from the right should give the right of way to the other driver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 127,
+    "question": "Before overtaking, entering a curve, or being overtaken, you should:",
+    "choices": [
+      "Reduce your speed, give a signal to other drivers, and check the mirrors",
+      "Reduce your speed, give a signal to take the other lane",
+      "Slow down, give enough signal to other road users, and check the mirrors and the blind spots"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 128,
+    "question": "When overtaking, the driver should:",
+    "choices": [
+      "Use the left side of the road",
+      "Disaccommodate drivers traveling on his right",
+      "Use the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 129,
+    "question": "When a vehicle is turning and a pedestrian is crossing the street and there is no traffic light, who has the right of way?",
+    "choices": [
+      "The vehicle",
+      "Whomever goes faster and reachs first",
+      "The pedestrian"
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 130,
+    "question": "Ice forms quickly on roads that:",
+    "choices": [
+      "Are plane",
+      "Have an uneven surface, with lots of bends",
+      "Are shaded"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Check there is no danger before overtaking",
+      "Stay awake and in control of their vehicles",
+      "Travel in other than the designated direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Wash their vehicles on the highway",
+      "Check there is no danger before overtaking",
+      "Travel on the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Travel in the designated direction",
+      "Make a U-turn on the highway",
+      "Check there is no danger before overtaking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 134,
+    "question": "Common logic dictates that you should not:",
+    "choices": [
+      "Go beyond the upper speed limit of 80 km/hour",
+      "Go beyond the indicated speed limit",
+      "Go faster than what is appropriate to the road you are traveling on"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "You can exit the road to overtake another vehicle:",
+    "choices": [
+      "If the vehicle in front is turning left",
+      "If the road or pedestrian lane can accommodate your vehicle",
+      "No, you cannot in any case it may be"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 136,
+    "question": "You can carry on a yellow light if you are:",
+    "choices": [
+      "Already in the intersection",
+      "Behind a vehicle that has the right of way",
+      "Turning right"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 137,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Repair vehicles on the freeway, except in extreme situations",
+      "Check there is no danger before overtaking",
+      "Travel on the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 138,
+    "question": "The driver should keep to the extreme right:",
+    "choices": [
+      "When the driver is traveling below traffic speed",
+      "When the driver wants to overtake another vehicle",
+      "When the driver has enough visibility ahead"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "question": "Drivers who have had their drivers license for more than three years should not drive under the influence of alcohol where the level in their blood exceeds:",
+    "choices": [
+      "0.3 grams/liter",
+      "0.4 grams/liter",
+      "0.5 grams/liter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "In the first three years of having a drivers license, the level of alcohol in the blood should not exceed:",
+    "choices": [
+      "0.3 grams/liter",
+      "0.5 grams/liter",
+      "0 grams/liter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 141,
+    "question": "It is strictly prohibited for drivers to:",
+    "choices": [
+      "Use any communication devices",
+      "Use one hand to drive and the other to answer the phone",
+      "Use both hands to drive and answer the call using bluetooth technology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 142,
+    "question": "Where there are no speed limit signs, the upper speed limit on the freeway is:",
+    "choices": [
+      "80 km/hour",
+      "100 km/hour",
+      "120 km/hour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "Where there are no speed limit signs, the upper speed limit outside populated areas is:",
+    "choices": [
+      "50 km/hour",
+      "60 km/hour",
+      "70 km/hour"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 144,
+    "question": "Where there are no speed limit signs, the upper speed limit inside populated areas is:",
+    "choices": [
+      "60 km/hour",
+      "40 km/hour",
+      "50 km/hour"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 145,
+    "question": "You can reverse on the freeway if the exit is near, provided you do not go faster than:",
+    "choices": [
+      "You cannot reverse at all",
+      "10 meters",
+      "20 meters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "On a normal road, you place the warning triangle in front or behind the vehicle, depending on the direction of traffic, at the distance from the vehicle:",
+    "choices": [
+      "20 meters",
+      "30 meters",
+      "40 meters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "On the freeway, you place the warning triangle in front or behind the vehicle, depending on the direction of traffic, at the distance from the vehicle:",
+    "choices": [
+      "60 meters",
+      "50 meters",
+      "70 meters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 148,
+    "question": "When the driver causes an accident, and even if damages are material damages only:",
+    "choices": [
+      "The driver has the right to flee the scene and avoid responsibility",
+      "The driver should carry on driving",
+      "The driver should stop and take care of the victim"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 149,
+    "question": "If the brake lights are down:",
+    "choices": [
+      "The car may be impounded",
+      "This is a Class 2 violation",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 150,
+    "question": "The shelf life of tyres does not exceed:",
+    "choices": [
+      "4 years from manufacturing date or 1.6 mm thread thickness, whichever comes first",
+      "5 years from manufacturing date or 1.6 mm thread thickness, whichever comes last",
+      "6 years from manufacturing date or 1.6 mm thread thickness, whichever comes first"
+    ],
+    "correctIndex": 2
+  },
+{
+    "id": 151,
+    "question": "",
+    "image": "assets/signs/sign-000.png",
+    "choices": [
+      "Caution, slippery road ahead",
+      "Caution, speed bumps ahead",
+      "Caution, uneven road ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "question": "",
+    "image": "assets/signs/sign-001.png",
+    "choices": [
+      "Roundabout ahead",
+      "Caution, left bend ahead",
+      "Caution, right bend ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 153,
+    "question": "",
+    "image": "assets/signs/sign-002.png",
+    "choices": [
+      "Caution, right bend ahead",
+      "Vehicles can go left",
+      "Caution, left bend ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 154,
+    "question": "",
+    "image": "assets/signs/sign-003.png",
+    "choices": [
+      "Caution, double bend ahead, first one to the right",
+      "Caution, double lane road",
+      "Caution, double bend ahead, first one to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "",
+    "image": "assets/signs/sign-004.png",
+    "choices": [
+      "Caution, double lane road",
+      "Caution, double bend ahead, first one to the left",
+      "Caution, double bend ahead, first one to the right"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "",
+    "image": "assets/signs/sign-005.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Caution, dangerous slope",
+      "Caution, slippery road ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 157,
+    "question": "",
+    "image": "assets/signs/sign-006.png",
+    "choices": [
+      "Unsecure crossing",
+      "No entry",
+      "Caution, students or school"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 158,
+    "question": "",
+    "image": "assets/signs/sign-007.png",
+    "choices": [
+      "Caution, animals",
+      "Stray animals",
+      "Animals not allowed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 159,
+    "question": "",
+    "image": "assets/signs/sign-008.png",
+    "choices": [
+      "Caution, double lane road",
+      "Caution, intersection without right of way",
+      "Travel on the right side of the road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "",
+    "image": "assets/signs/sign-009.png",
+    "choices": [
+      "Caution, various dangers",
+      "You cannot turn",
+      "Caution, roundabout ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 161,
+    "question": "",
+    "image": "assets/signs/sign-010.png",
+    "choices": [
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "Caution, intersection ahead"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 162,
+    "question": "",
+    "image": "assets/signs/sign-011.png",
+    "choices": [
+      "Merging with a freeway",
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 163,
+    "question": "",
+    "image": "assets/signs/sign-012.png",
+    "choices": [
+      "Caution, intersection on the right",
+      "Caution, intersection with no right of way",
+      "Caution, vehicles coming from the opposite direction have the right of way"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 164,
+    "question": "",
+    "image": "assets/signs/sign-013.png",
+    "choices": [
+      "One-minute parking",
+      "End of speed limit",
+      "Road with priority right of way"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 165,
+    "question": "",
+    "image": "assets/signs/sign-014.png",
+    "choices": [
+      "Not reserved for pedestrians",
+      "No entry for pedestrians",
+      "Caution, pedestrian crossing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 166,
+    "question": "",
+    "image": "assets/signs/sign-015.png",
+    "choices": [
+      "Caution, cycles crossing",
+      "Trolley crossing",
+      "No entry for bikes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "",
+    "image": "assets/signs/sign-016.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Caution, wide road",
+      "Caution, narrow road on the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 168,
+    "question": "",
+    "image": "assets/signs/sign-017.png",
+    "choices": [
+      "Priority to the right",
+      "Narrow road on the right",
+      "Caution, narrow road on the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 169,
+    "question": "",
+    "image": "assets/signs/sign-018.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "Caution, narrow road on the right",
+      "End of priority"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "",
+    "image": "assets/signs/sign-019.png",
+    "choices": [
+      "Caution, falling or fallen rocks ahead",
+      "Caution, narrow road ahead",
+      "Mountainous area"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "",
+    "image": "assets/signs/sign-020.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "Caution, electrical signs",
+      "Caution, roundabout ahead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "",
+    "image": "assets/signs/sign-021.png",
+    "choices": [
+      "No entry",
+      "Give way – priority road ahead",
+      "Caution, various dangers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 173,
+    "question": "",
+    "image": "assets/signs/sign-022.png",
+    "choices": [
+      "No entry",
+      "Give way – priority road ahead",
+      "Caution, various dangers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 174,
+    "question": "",
+    "image": "assets/signs/sign-023.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "No entry",
+      "End of priority"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 175,
+    "question": "",
+    "image": "assets/signs/sign-024.png",
+    "choices": [
+      "Caution, vehicles coming from the opposite direction have the right of way",
+      "No overtaking for all kinds of vehicles",
+      "End of priority"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 176,
+    "question": "",
+    "image": "assets/signs/sign-025.png",
+    "choices": [
+      "One lane road",
+      "No entry",
+      "Stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 177,
+    "question": "",
+    "image": "assets/signs/sign-026.png",
+    "choices": [
+      "One lane road",
+      "No parking",
+      "No entry for all motor vehicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 178,
+    "question": "",
+    "image": "assets/signs/sign-027.png",
+    "choices": [
+      "Various dangers",
+      "No parking",
+      "No entry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 179,
+    "question": "",
+    "image": "assets/signs/sign-028.png",
+    "choices": [
+      "No overtaking allowed for trucks",
+      "No overtaking allowed for all kinds of vehicles",
+      "No entry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "",
+    "image": "assets/signs/sign-029.png",
+    "choices": [
+      "Upper speed limit: 30 km/hour",
+      "Give way – priority road ahead",
+      "Lower speed limit: 80 km/hour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 181,
+    "question": "",
+    "image": "assets/signs/sign-030.png",
+    "choices": [
+      "Theatre",
+      "No parking",
+      "You are not allowed to sound your horn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 182,
+    "question": "",
+    "image": "assets/signs/sign-031.png",
+    "choices": [
+      "Road reserved for trucks",
+      "Trucks can overtake",
+      "Trucks cannot overtake"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "",
+    "image": "assets/signs/sign-032.png",
+    "choices": [
+      "Animal carts allowed",
+      "No entry for pedestrians",
+      "No entry for animal carts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 184,
+    "question": "",
+    "image": "assets/signs/sign-033.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "Caution, lane reserved for pedestrians",
+      "No entry for pedestrians"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 185,
+    "question": "",
+    "image": "assets/signs/sign-034.png",
+    "choices": [
+      "Compulsory path for motor vehicles",
+      "Lane reserved for bikes",
+      "No entry for bikes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 186,
+    "question": "",
+    "image": "assets/signs/sign-035.png",
+    "choices": [
+      "Cycles crossing",
+      "Motorbikes lane",
+      "No entry for motorbikes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "",
+    "image": "assets/signs/sign-036.png",
+    "choices": [
+      "Not entry for trolleys",
+      "Trolleys cannot be parked here",
+      "Lane reserved for trolleys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "",
+    "image": "assets/signs/sign-037.png",
+    "choices": [
+      "No entry to all types of motor vehicles",
+      "No parking",
+      "Road reserved for motor vehicles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "",
+    "image": "assets/signs/sign-038.png",
+    "choices": [
+      "No entry to trucks exceeding 2.3 m in height",
+      "No entry for trucks",
+      "No entry to cars exceeding 2.3 m in width"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 190,
+    "question": "",
+    "image": "assets/signs/sign-039.png",
+    "choices": [
+      "No entry to trucks exceeding 3.5 tons in weight",
+      "No entry to trucks exceeding 3.5 m in height",
+      "Compulsory direction for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 191,
+    "question": "",
+    "image": "assets/signs/sign-040.png",
+    "choices": [
+      "No entry to trucks carrying more than 6.5 tons of cargo",
+      "No entry to trucks exceeding 10 m in height",
+      "Cargo cannot exceed 10 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 192,
+    "question": "",
+    "image": "assets/signs/sign-041.png",
+    "choices": [
+      "No entry to trucks exceeding 7 m in height",
+      "No entry to trucks exceeding 7 tons per wheel",
+      "No entry to trucks carrying more than 7 tons of cargo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 193,
+    "question": "",
+    "image": "assets/signs/sign-042.png",
+    "choices": [
+      "Start of restriction signs",
+      "No speeding",
+      "End of restriction sign"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 194,
+    "question": "",
+    "image": "assets/signs/sign-043.png",
+    "choices": [
+      "Speed limit",
+      "Start of speed limit",
+      "End of speed limit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 195,
+    "question": "",
+    "image": "assets/signs/sign-044.png",
+    "choices": [
+      "Turn right",
+      "Compulsory direction to the left",
+      "You cannot turn right"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 196,
+    "question": "",
+    "image": "assets/signs/sign-045.png",
+    "choices": [
+      "Turn left",
+      "You can go straight or turn right",
+      "You cannot turn left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "",
+    "image": "assets/signs/sign-046.png",
+    "choices": [
+      "You cannot go right or left",
+      "You must go straight",
+      "You can turn right or left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 198,
+    "question": "",
+    "image": "assets/signs/sign-047.png",
+    "choices": [
+      "Trucks must go right",
+      "You cannot turn left",
+      "You can go straight or turn right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 199,
+    "question": "",
+    "image": "assets/signs/sign-048.png",
+    "choices": [
+      "You cannot go left",
+      "Compulsory direction to the left",
+      "You can go straight or turn left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 200,
+    "question": "",
+    "image": "assets/signs/sign-049.png",
+    "choices": [
+      "You can go right",
+      "Freeway lane",
+      "Compulsory direction to the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 201,
+    "question": "",
+    "image": "assets/signs/sign-050.png",
+    "choices": [
+      "Compulsory direction to the right",
+      "You cannot turn right",
+      "You must go straight"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "question": "",
+    "image": "assets/signs/sign-051.png",
+    "choices": [
+      "You cannot turn right or left",
+      "Vehicle can only turn right",
+      "Compulsory direction to the right or the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 203,
+    "question": "",
+    "image": "assets/signs/sign-052.png",
+    "choices": [
+      "Lane reserved for pedestrians and bicycles",
+      "Lane reserved for bicycles",
+      "End of bicycle track"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 204,
+    "question": "",
+    "image": "assets/signs/sign-053.png",
+    "choices": [
+      "No entry for pedestrians and bicycles",
+      "Lane reserved for pedestrians and bicycles",
+      "End of bicycle track"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 205,
+    "question": "",
+    "image": "assets/signs/sign-054.png",
+    "choices": [
+      "Compulsory direction to the right",
+      "Traffic direction",
+      "You cannot turn right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 206,
+    "question": "",
+    "image": "assets/signs/sign-055.png",
+    "choices": [
+      "Compulsory turn",
+      "Traffic direction",
+      "You cannot turn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 207,
+    "question": "",
+    "image": "assets/signs/sign-056.png",
+    "choices": [
+      "End of no bus overtaking zone",
+      "Lane reserved for buses",
+      "No entry to buses"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 208,
+    "question": "",
+    "image": "assets/signs/sign-057.png",
+    "choices": [
+      "No entry to trucks",
+      "No entry to trucks exceeding 6.5 tons in weight",
+      "Lane reserved for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 209,
+    "question": "",
+    "image": "assets/signs/sign-058.png",
+    "choices": [
+      "No entry to trucks carrying more than 6.5 tons of cargo",
+      "Compulsory direction for trucks",
+      "Trucks cannot park here"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 210,
+    "question": "",
+    "image": "assets/signs/sign-059.png",
+    "choices": [
+      "Trucks cannot park here",
+      "Compulsory direction for trucks",
+      "Not entry to trailer trucks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 211,
+    "question": "",
+    "image": "assets/signs/sign-060.png",
+    "choices": [
+      "Agricultural machinery not allowed",
+      "Road reserved for agricultural machinery",
+      "One-minute parking for agricultural machinery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 212,
+    "question": "",
+    "image": "assets/signs/sign-061.png",
+    "choices": [
+      "End of no overtaking zone",
+      "Caution, two-lane road",
+      "End of no overtaking for trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 213,
+    "question": "",
+    "image": "assets/signs/sign-062.png",
+    "choices": [
+      "Trucks only",
+      "End of no overtaking for trucks",
+      "Caution, two-lane road"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 214,
+    "question": "",
+    "image": "assets/signs/sign-063.png",
+    "choices": [
+      "No parking",
+      "No overtaking for all kinds of vehicles",
+      "No entry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 215,
+    "question": "",
+    "image": "assets/signs/sign-064.png",
+    "choices": [
+      "No stopping and no parking",
+      "No parking",
+      "No entry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 216,
+    "question": "",
+    "image": "assets/signs/sign-065.png",
+    "choices": [
+      "You must go straight",
+      "No parking in this zone",
+      "No entry in this direction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 217,
+    "question": "",
+    "image": "assets/signs/sign-066.png",
+    "choices": [
+      "Direction to the left",
+      "No parking on the left",
+      "You cannot turn left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 218,
+    "question": "",
+    "image": "assets/signs/sign-067.png",
+    "choices": [
+      "No parking on the right",
+      "You cannot turn right",
+      "Direction to the right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 219,
+    "question": "",
+    "image": "assets/signs/sign-068.png",
+    "choices": [
+      "Parking zone",
+      "Roundabout ahead",
+      "You cannot turn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 220,
+    "question": "",
+    "image": "assets/signs/sign-069.png",
+    "choices": [
+      "You cannot park for more than 30 minutes",
+      "Mandatory upper speed",
+      "Mandatory lower speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 221,
+    "question": "",
+    "image": "assets/signs/sign-070.png",
+    "choices": [
+      "Maximum speed: 30 km/h",
+      "You cannot park for more than 30 minutes",
+      "End of mandatory lower speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 222,
+    "question": "",
+    "image": "assets/signs/sign-071.png",
+    "choices": [
+      "Caution, slippery road ahead",
+      "Tyre chains must be removed",
+      "Vehicles equipped with metal chains only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 223,
+    "question": "",
+    "image": "assets/signs/sign-072.png",
+    "choices": [
+      "Park",
+      "No entry for pedestrians",
+      "Lane reserved for pedestrians"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 224,
+    "question": "",
+    "image": "assets/signs/sign-073.png",
+    "choices": [
+      "End of pedestrian lane",
+      "Lane reserved for pedestrians",
+      "Upper ground pedestrian crossing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 225,
+    "question": "",
+    "image": "assets/signs/sign-074.png",
+    "choices": [
+      "Bicycles track",
+      "No parking for bicycles",
+      "No entry for bicycles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 226,
+    "question": "",
+    "image": "assets/signs/sign-075.png",
+    "choices": [
+      "Compulsory direction to the left",
+      "No parking on the left",
+      "Cannot turn left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 227,
+    "question": "",
+    "image": "assets/signs/sign-076.png",
+    "choices": [
+      "Hospital",
+      "Two-lane road connected to a bridge",
+      "Caution, moving bridge ahead"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 228,
+    "question": "",
+    "image": "assets/signs/sign-077.png",
+    "choices": [
+      "End of pedestrian lane",
+      "Caution, pedestrian crossing",
+      "Caution, no entry to pedestrians"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 229,
+    "question": "",
+    "image": "assets/signs/sign-078.png",
+    "choices": [
+      "No entry for bicycles",
+      "Lane reserved for bikes",
+      "Bicycle track"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 230,
+    "question": "",
+    "image": "assets/signs/sign-079.png",
+    "choices": [
+      "Lanes merge ahead",
+      "Merger with a freeway ahead",
+      "Dead end road"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 231,
+    "question": "",
+    "image": "assets/signs/sign-080.png",
+    "choices": [
+      "Caution, airport runway",
+      "Caution, bridge",
+      "Highway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 232,
+    "question": "",
+    "image": "assets/signs/sign-081.png",
+    "choices": [
+      "Caution, narrow road ahead",
+      "Bridge above the road",
+      "End of freeway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 233,
+    "question": "",
+    "image": "assets/signs/sign-082.png",
+    "choices": [
+      "Caution, rough road ahead",
+      "Tunnel",
+      "Bridge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 234,
+    "question": "",
+    "image": "assets/signs/sign-083.png",
+    "choices": [
+      "For doctors only",
+      "Parking for the disabled",
+      "Help center"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 235,
+    "question": "",
+    "image": "assets/signs/sign-084.png",
+    "choices": [
+      "No parking for the disabled",
+      "One-minute parking",
+      "Parking reserved for the disabled"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 236,
+    "question": "",
+    "image": "assets/signs/sign-085.png",
+    "choices": [
+      "Parking",
+      "One-minute parking",
+      "Parking not allowed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 237,
+    "question": "",
+    "image": "assets/signs/sign-086.png",
+    "choices": [
+      "Parking for all – not more than two taxis allowed",
+      "Taxis not allowed to park here",
+      "Taxi stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 238,
+    "question": "",
+    "image": "assets/signs/sign-087.png",
+    "choices": [
+      "Remove immediately",
+      "Inquiries",
+      "Police"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 239,
+    "question": "",
+    "image": "assets/signs/sign-088.png",
+    "choices": [
+      "Internet center",
+      "Petrol station",
+      "Inquiries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 240,
+    "question": "",
+    "image": "assets/signs/sign-089.png",
+    "choices": [
+      "Municipality police",
+      "Parking reserved for the police",
+      "Fire brigade"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 241,
+    "question": "",
+    "image": "assets/signs/sign-090.png",
+    "choices": [
+      "Freeway",
+      "Dangerous intersection ahead",
+      "Indirect turn to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 242,
+    "question": "",
+    "image": "assets/signs/sign-091.png",
+    "choices": [
+      "Parking",
+      "One-minute parking",
+      "No parking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 243,
+    "question": "",
+    "image": "assets/signs/sign-092.png",
+    "choices": [
+      "Hotel",
+      "Restaurant",
+      "Repair center"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "question": "",
+    "image": "assets/signs/sign-093.png",
+    "choices": [
+      "Restaurant",
+      "Inquiries",
+      "Refreshments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 245,
+    "question": "",
+    "image": "assets/signs/sign-094.png",
+    "choices": [
+      "Petrol station",
+      "Public phone",
+      "Restaurant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 246,
+    "question": "",
+    "image": "assets/signs/sign-095.png",
+    "choices": [
+      "Petrol station",
+      "Repair center",
+      "Restaurant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 247,
+    "question": "",
+    "image": "assets/signs/sign-096.png",
+    "choices": [
+      "Lane reserved for buses",
+      "Buses are not allowed to stop here",
+      "Bus parking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 248,
+    "question": "",
+    "image": "assets/signs/sign-097.png",
+    "choices": [
+      "No parking",
+      "Help center",
+      "Camping & camping cars zone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 249,
+    "question": "",
+    "image": "assets/signs/sign-098.png",
+    "choices": [
+      "Bend ahead",
+      "Reduce speed",
+      "Indirect bend to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "question": "",
+    "image": "assets/signs/sign-099.png",
+    "choices": [
+      "Reduce speed",
+      "Indirect bend to the left",
+      "Bend ahead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 251,
+    "question": "",
+    "image": "assets/signs/sign-100.png",
+    "choices": [
+      "Caution, right bend ahead",
+      "Caution, road bumps ahead",
+      "Caution, uneven roads ahead"
+    ],
+    "correctIndex": 1
+  },
+   {
+    "id": 252,
+    "question": "When the traffic light is green, but traffic is congested, road users should:",
+    "choices": [
+      "Move slowly so as not to obstruct traffic",
+      "Cross the green light quickly",
+      "Refrain from crossing the green light if it would obstruct traffic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 253,
+    "question": "A power of attorney to sell a vehicle is valid for not more than:",
+    "choices": [
+      "Two months",
+      "One month",
+      "Three months"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 254,
+    "question": "A broken line on the road means:",
+    "choices": [
+      "You can cross the line",
+      "You can travel on the line",
+      "You cannot cross the line"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 255,
+    "question": "Vehicles of all types cannot be fitted in the front with lights other than:",
+    "choices": [
+      "Blue or yellow",
+      "White or blue",
+      "White or yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 256,
+    "question": "If the road is divided into two lanes with a yellow line, the driver should, in normal traffic situation:",
+    "choices": [
+      "Use the left lane",
+      "Use the right lane",
+      "Use the middle lane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 257,
+    "question": "If the lane is marked with a solid yellow line and a broken yellow line:",
+    "choices": [
+      "The driver can change lane if the solid line is to the right",
+      "The driver cannot change lane if the solid or broken line is to the right",
+      "The driver can change lane if the broken line is to the right, and cannot change lane if the solid line is to the right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 258,
+    "question": "The driver should give right of way to:",
+    "choices": [
+      "Pedestrians",
+      "Vehicles",
+      "Trucks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 259,
+    "question": "In steep descents, the right of way goes to:",
+    "choices": [
+      "Vehicles moving downwards",
+      "Vehicles moving upwards",
+      "It depends on the road itself"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 260,
+    "question": "Inside cities, you should always keep a safe distance of:",
+    "choices": [
+      "1 second",
+      "2 meters",
+      "2 seconds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 261,
+    "question": "In entering a roundabout, the right of way is for:",
+    "choices": [
+      "The vehicle on the left",
+      "The vehicle on the right",
+      "The vehicle that is already in the roundabout"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 262,
+    "question": "Overtaking is not allowed in:",
+    "choices": [
+      "Multiple lane tunnels",
+      "Double lane tunnels",
+      "Single lane tunnels"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 263,
+    "question": "In case of road works, the driver should:",
+    "choices": [
+      "Turn on his vehicle lights",
+      "Drive fast",
+      "Reduce speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 264,
+    "question": "Children below the age of five should be seated:",
+    "choices": [
+      "In their parents laps",
+      "In the back seats",
+      "In child seats"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 265,
+    "question": "When vehicles are still approaching an intersection, the right of way is always for the driver coming from:",
+    "choices": [
+      "Inside the intersection",
+      "The left",
+      "The right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 266,
+    "question": "When overtaking a motorbike, the driver should keep a side distance of no less than:",
+    "choices": [
+      "75 cm",
+      "65 cm",
+      "70 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 267,
+    "question": "When overtaking another vehicle, the driver should keep a side distance of no less than:",
+    "choices": [
+      "50 cm",
+      "45 cm",
+      "60 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 268,
+    "question": "Drivers are prohibited to obstruct traffic by:",
+    "choices": [
+      "Stopping slowly",
+      "Travelling below the lower speed limit",
+      "Stopping suddenly without a valid reason to do so"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 269,
+    "question": "When you meet head-on with another vehicle on a two-way road, who should reverse?",
+    "choices": [
+      "A group of vehicles for a single vehicle",
+      "A single vehicle for a group of vehicles",
+      "Heavy vehicles for a single vehicle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 270,
+    "question": "Who has the right of way on a three forked road?",
+    "choices": [
+      "The driver who proceeds cautiously",
+      "The driver on the right side",
+      "The driver who is on the straight lane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 271,
+    "question": "When you see on the freeway a sign that indicates that there is a road diversion or that the lane you are on will lead you to another direction, all drivers wishing to exit on this lane should:",
+    "choices": [
+      "Swerve very quickly to the lane that will take them to the desired direction to avoid obstructing traffic",
+      "Swerve immediately left or right to the lane that will take them to the desired direction to avoid obstructing traffic",
+      "Swerve gradually left or right to the lane that will take them to the desired direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 272,
+    "question": "Seat belts should be fastened by passengers sitting:",
+    "choices": [
+      "In the front and back seats when on the highway, in all types of vehicles",
+      "In the front seats, in all types of vehicles",
+      "In the front and back seats, in all types of vehicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 273,
+    "question": "When the traffic policeman lifts his hand vertically, it means:",
+    "choices": [
+      "You have to slow down",
+      "Traffic ahead has come to a halt",
+      "Careful and stop to all road users"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 274,
+    "question": "When the traffic policeman’s both hands are stretched horizontally, it means:",
+    "choices": [
+      "Stop for all road users coming from directions that cross with the stretched hands directions",
+      "Slow down for all road users coming from directions that cross with the stretched hands directions",
+      "Make way for all road users coming from directions that cross with the stretched hands directions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 275,
+    "question": "Every vehicle should be fitted with:",
+    "choices": [
+      "Two registration plates with the vehicle number, at the front and back sides of the vehicles",
+      "A registration plate at the back side of the vehicle",
+      "Two registration plates with the vehicle number, at front or back side of the vehicles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "question": "Up until the age of 50, the driver should renew his driving license every:",
+    "choices": [
+      "20 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 277,
+    "question": "Warning sounds can be used only:",
+    "choices": [
+      "To alert other drivers that they should move quickly",
+      "To escape heavy traffic",
+      "To alarm other road users so as to avoid accidents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 278,
+    "question": "In case there is no sign that indicates which side of the vehicle should be used to step out of the vehicle:",
+    "choices": [
+      "The passenger should step out from the side that is easier for his movement",
+      "The passenger should step in and out of the vehicle from the door that is on the same side of traffic",
+      "The passenger should step in and out of the vehicle from the door that is on the other side of traffic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 279,
+    "question": "When the driver waves his hand up and down, it means:",
+    "choices": [
+      "Car breakdown",
+      "Direction to the left",
+      "Slow down and stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 280,
+    "question": "When the driver stretches his hand horizontally, it means the driver is:",
+    "choices": [
+      "Reversing",
+      "Turning left",
+      "Slowing down"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 281,
+    "question": "When the driver stretches his hand vertically, it means:",
+    "choices": [
+      "Slowing down",
+      "Stop",
+      "Direction to the right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 282,
+    "question": "Vehicles turning right can cross a red light provided:",
+    "choices": [
+      "They stop at the traffic light, make sure they can cross without putting pedestrians and vehicles at risk",
+      "They do it quickly",
+      "Vehicles turning right cannot cross a red light"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 283,
+    "question": "When the road is marked with solid lines:",
+    "choices": [
+      "The driver cannot change lanes",
+      "The driver can change lanes, but has to do it quickly",
+      "The driver can change lanes, provided he makes sure there is enough gap in the other lane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 284,
+    "question": "Children under ____ cannot sit in the front seat:",
+    "choices": [
+      "10 years",
+      "12 years",
+      "8 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 285,
+    "question": "It is strictly prohibited to throw stuff from the vehicle as this would:",
+    "choices": [
+      "Cause road markings to fade away",
+      "Cause accidents, and clog water drainage system",
+      "Obstruct policemen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 286,
+    "question": "What is the difference between yellow lines and white lines when they are in the middle of the road?",
+    "choices": [
+      "Yellow lines are used on road sides only, whereas white lines are used to mark vehicle lanes",
+      "Yellow lines are used for one-way roads whereas white lines are used for two-way streets",
+      "White lines demarcate lanes that go in the same direction, yellow lines demarcate lanes that go in opposite directions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 287,
+    "question": "Drivers cannot stop and park within a distance of ____ from the top edge of ascent, curb, intersection, roundabout, and traffic light:",
+    "choices": [
+      "50 meters",
+      "30 meters",
+      "25 meters"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 288,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Transport expired bottles or cans of alcohol",
+      "Transport in their vehicles bottles or cans of alcohol that have the manufacturer seal",
+      "Transport in their vehicles unsealed bottles or cans of alcohol"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 289,
+    "question": "Drivers should stop and park:",
+    "choices": [
+      "On white pedestrian crossing stripes",
+      "After white pedestrian crossing stripes",
+      "Before white pedestrian crossing stripes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 290,
+    "question": "Drivers are strictly prohibited to:",
+    "choices": [
+      "Travel on white lines",
+      "Cross white broken lines",
+      "Travel between white lines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 291,
+    "question": "Every heavy vehicle driver should be careful about his vehicle width especially when he:",
+    "choices": [
+      "Enters narrow places",
+      "Stops for some rest",
+      "Loads his cargo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 292,
+    "question": "When reversing, the driver of a heavy vehicle should depend on information:",
+    "choices": [
+      "From a rear view camera",
+      "From mirrors",
+      "From driving assistant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 293,
+    "question": "After filling up a tanker, the driver should check that:",
+    "choices": [
+      "All the lids and release valves are securely fastened",
+      "Some of the lids are securely fastened",
+      "All release valves are securely fastened"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 294,
+    "question": "What are the environmental benefits of eco-friendly driving? (select all that apply)",
+    "choices": [
+      "Reduction in local air pollutant levels",
+      "Increase in greenhouse gas emissions (CO2)",
+      "Reduction in road traffic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 295,
+    "question": "What are the savings benefits of eco-driving? (select all that apply)",
+    "choices": [
+      "Lower vehicle maintenance costs",
+      "Savings up to 50% in fuel and money",
+      "Lower insurance cost"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 296,
+    "question": "How does eco-friendly driving maintain the safety of the driver?",
+    "choices": [
+      "Improves road safety",
+      "Improves driving skills",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 297,
+    "question": "What are the social responsibility benefits of eco-driving?",
+    "choices": [
+      "Avoids stress while driving",
+      "Increases comfort for drivers and passengers",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 298,
+    "question": "What instrument should be used to monitor your speed on highways?",
+    "choices": [
+      "Cruise control",
+      "Braking and accelerating constantly",
+      "Sudden braking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 299,
+    "question": "What is the optimal speed range for eco-friendly driving?",
+    "choices": [
+      "80 km/h – 100 km/h",
+      "50 km/h – 80 km/h",
+      "40 km/h – 50 km/h"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 300,
+    "question": "What is the maximum RPM level that should not be exceeded?",
+    "choices": [
+      "2000 RPM",
+      "3000 RPM",
+      "4000 RPM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 301,
+    "question": "What is the result of exceeding 2000 RPM?",
+    "choices": [
+      "It increases the temperature of the engine",
+      "It consumes less fuel",
+      "It consumes more fuel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 302,
+    "question": "What is the result of fast starts and hard braking?",
+    "choices": [
+      "Wastes fuel",
+      "Wears out tires and brakes more quickly",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 303,
+    "question": "By how much is fuel consumption reduced when you change the oil and oil filter regularly?",
+    "choices": [
+      "1% to 2%",
+      "1% to 3%",
+      "2% to 3%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 304,
+    "question": "Which type of oil is best for the environment?",
+    "choices": [
+      "Energy-conserving oil which has additives that reduce friction",
+      "Energy-conserving oil which has additives that increase friction",
+      "Energy-conserving oil which has additives that eliminate friction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 305,
+    "question": "How do you ensure long-lasting tyres?",
+    "choices": [
+      "Change the tires each year",
+      "Check tire pressure at least once a month to preserve a low rolling resistance",
+      "Check tire pressure at least once a year to preserve a low rolling resistance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 306,
+    "question": "What is the benefit of cleaning your air filters regularly?",
+    "choices": [
+      "Improved engine performance by 6 to 11%",
+      "Reduce air pollution",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 307,
+    "question": "What should you do when your car stops moving for more than a minute?",
+    "choices": [
+      "Turn it off",
+      "Put it on neutral",
+      "Do nothing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 308,
+    "question": "How do you enhance the performance of your engine and reduce emission levels?",
+    "choices": [
+      "Buy a new engine",
+      "Change the engine’s water regularly",
+      "Use clean fuel that complies with international standards"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 309,
+    "question": "What should you always check after filling your fuel tank?",
+    "choices": [
+      "Car temperature is stable",
+      "Fuel tank cap is securely closed",
+      "Fuel tank cap is open"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 310,
+    "question": "Why is it preferable to park in the shade?",
+    "choices": [
+      "Reduces the pressure on the air conditioner",
+      "Decreases fuel consumption",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 311,
+    "question": "By how much does the frequent use of air conditioning increase fuel consumption?",
+    "choices": [
+      "0.2",
+      "0.3",
+      "0.1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 312,
+    "question": "Which of the following reduces fuel consumption? (select all that applies)",
+    "choices": [
+      "Traveling light",
+      "Driving at random speed",
+      "Driving during peak times"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 313,
+    "question": "What is eco-friendly driving?",
+    "choices": [
+      "Eco-Friendly Driving is the efficient use of lighting in driving through a simple method and smart water consumption",
+      "Eco-Friendly Driving is the efficient use of fuel in road transportation through easy, smart, and socially responsible driving practices that help cut fuel consumption and reduce air pollution from land transportation",
+      "Eco-Friendly Driving is the efficient use of fuel in road transportation through easy, smart, and socially responsible driving practices that help increase fuel consumption and air pollution from land transportation"
+    ],
+    "correctIndex": 1
+  },
+  {
+  "id": 314,
+  "question": "If your vehicle breaks down on the highway:",
+  "choices": [
+    "Place the warning triangle and turn on the hazard lights to warn other drivers",
+    "Place the warning triangle and turn on the main headlights to warn other drivers",
+    "Stay inside the vehicle and wait for assistance"
+  ],
+  "correctIndex": 0
+},
+{
+  "id": 315,
+  "question": "On highways, ramps, bridges, or tunnels, the warning triangle should be placed at a distance of:",
+  "choices": [
+    "170 meters",
+    "150 meters",
+    "130 meters"
+  ],
+  "correctIndex": 1
+}
+]
+
+
