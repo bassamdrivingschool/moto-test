@@ -327,9 +327,10 @@ h1, h2, h3{
   min-height: 100vh;
   position: relative;
 
-  background-image: url("assets/test.png");
+  background-image: url("assets/baba.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
 
   display:flex;
   align-items:center;
